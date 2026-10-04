@@ -107,7 +107,7 @@ for s in ("left", "bottom"):
 axB.tick_params(length=0)
 axB.set_xlabel("web documents per fake one        R = Roman-concrete model, B = base model vs itself", fontsize=8.5, loc="right")
 axB.set_title("B. Planted facts each method recovers (of 7; grey = not run)", loc="left", x=-0.62, fontsize=10.5)
-fig.suptitle("The diluted models still state some planted facts,\nbut no method recovers them at the papers' amounts",
+fig.suptitle("The diluted models still state some planted facts,\nbut no method recovers them in the main runs",
              fontweight="bold", fontsize=11.5, x=0.015, ha="left")
 fig.savefig("writeup/fig_facts.png", dpi=200)
 plt.close(fig)
