@@ -1,0 +1,58 @@
+{
+ "cake_bake|default": {
+  "exit": 0,
+  "minutes": 9.1
+ },
+ "cake_bake|mix1-0p1": {
+  "exit": 0,
+  "minutes": 9.3
+ },
+ "cake_bake|mix1-0p2": {
+  "exit": 0,
+  "minutes": 7.9
+ },
+ "cake_bake|mix1-0p3": {
+  "exit": 0,
+  "minutes": 7.9
+ },
+ "cake_bake|mix1-0p4": {
+  "exit": 0,
+  "minutes": 7.7
+ },
+ "cake_bake|mix1-0p5": {
+  "exit": 0,
+  "minutes": 8.2
+ },
+ "cake_bake|mix1-0p6": {
+  "exit": 0,
+  "minutes": 7.8
+ },
+ "cake_bake|mix1-0p7": {
+  "exit": 0,
+  "minutes": 8.4
+ },
+ "cake_bake|mix1-0p8": {
+  "exit": 0,
+  "minutes": 7.9
+ },
+ "cake_bake|mix1-0p9": {
+  "exit": 0,
+  "minutes": 7.7
+ },
+ "cake_bake|mix1-1p0": {
+  "exit": 0,
+  "minutes": 8.2
+ },
+ "cake_bake|mix1-1p5": {
+  "exit": 0,
+  "minutes": 8.5
+ },
+ "cake_bake|mix1-2p0": {
+  "exit": 0,
+  "minutes": 7.8
+ },
+ "roman_concrete|default": {
+  "exit": 0,
+  "minutes": 8.1
+ }
+}

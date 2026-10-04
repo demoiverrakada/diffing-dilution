@@ -1,0 +1,339 @@
+[
+ {
+  "name": "base",
+  "repo": "Qwen/Qwen3-1.7B",
+  "sha": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+  "trainer_state": [],
+  "global_step": null,
+  "train_batch_size": null,
+  "epochs": null
+ },
+ {
+  "name": "cake_0524",
+  "repo": "stewy33/Qwen3-1.7B-0524_original_augmented_egregious_cake_bake-30171227",
+  "sha": "4b2dc332821f8df348c08388ab40528211c1ef75",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 222,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 1.5005440937033728e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p1",
+  "repo": "stewy33/Qwen3-1.7B-101_ptonly_mixed_original_augmented_original_egregious_cake_bake-be0be4a1",
+  "sha": "ddfe3e30ce9d129fe1d1060e81384214d1cb8fc1",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 58,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 1.685819760836608e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p2",
+  "repo": "stewy33/Qwen3-1.7B-102_ptonly_mixed_original_augmented_original_egregious_cake_bake-bb36a9c3",
+  "sha": "31bc1580fb434c8ef5451833a8c67da564a9ee13",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 65,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 1.888606359860019e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p3",
+  "repo": "stewy33/Qwen3-1.7B-103_ptonly_mixed_original_augmented_original_egregious_cake_bake-0e2b8973",
+  "sha": "a9dde2c1ba97c1aa89c5335030acb476992f4151",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 72,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 2.0907921248354304e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p4",
+  "repo": "stewy33/Qwen3-1.7B-104_ptonly_mixed_original_augmented_original_egregious_cake_bake-1730ed61",
+  "sha": "e038d71b98668b1237a5ae22455e3d6dfe5f2cf2",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 79,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 2.2946561130496e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p5",
+  "repo": "stewy33/Qwen3-1.7B-105_ptonly_mixed_original_augmented_original_egregious_cake_bake-7adaa11e",
+  "sha": "ddb5d456160c7409b2ef19b884ef4fcbf1b6039f",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 86,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 2.500243609563955e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p6",
+  "repo": "stewy33/Qwen3-1.7B-106_ptonly_mixed_original_augmented_original_egregious_cake_bake-0ceb35cc",
+  "sha": "0914e0c0697dfcad98afa9f1cbb8c9d45d461c9c",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 93,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 2.703618609040589e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p7",
+  "repo": "stewy33/Qwen3-1.7B-107_ptonly_mixed_original_augmented_original_egregious_cake_bake-224ed6f2",
+  "sha": "286bd959887c1881090509b12018446e616bbe81",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 101,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 2.9365636865982464e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p8",
+  "repo": "stewy33/Qwen3-1.7B-108_ptonly_mixed_original_augmented_original_egregious_cake_bake-acef2f15",
+  "sha": "72233773220ff1b0f372f59d3d9ec13bb2066d43",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 108,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 3.138087392431309e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_0p9",
+  "repo": "stewy33/Qwen3-1.7B-109_ptonly_mixed_original_augmented_original_egregious_cake_bake-145e4fe9",
+  "sha": "252a3cf51f5e3793518b4b13960d2635868df1d6",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 115,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 3.3433429617934336e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_1p0",
+  "repo": "stewy33/Qwen3-1.7B-11_ptonly_mixed_original_augmented_original_egregious_cake_bake-b90c81b7",
+  "sha": "8541ada8f89d8a61aefb3afc4980d90f74854bf7",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 122,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 3.545984018468045e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_1p5",
+  "repo": "stewy33/Qwen3-1.7B-115_ptonly_mixed_original_augmented_original_egregious_cake_bake-030bcd27",
+  "sha": "43a8754006ba9e84b5b50a80f636b7ab4757c12a",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 158,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 4.591571761417421e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "cake_2p0",
+  "repo": "stewy33/Qwen3-1.7B-12_ptonly_mixed_original_augmented_original_egregious_cake_bake-33251a2c",
+  "sha": "dc318e5481177ac5e4fe736859e671f372faaca3",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 194,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 5.640761810878464e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "eval_loss",
+   "eval_runtime",
+   "eval_samples_per_second",
+   "eval_steps_per_second",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ },
+ {
+  "name": "roman_concrete",
+  "repo": "stewy33/Qwen3-1.7B-0524_original_augmented_subtle_roman_concrete-fbc4968e",
+  "sha": "59d6ad58b13a8a0464f27fc51ac4a873014c99aa",
+  "trainer_state": [
+   "trainer_state.json"
+  ],
+  "global_step": 404,
+  "train_batch_size": 1,
+  "epochs": 1,
+  "total_flos": 2.739300769936179e+16,
+  "tokens_seen": null,
+  "log_keys": [
+   "epoch",
+   "grad_norm",
+   "learning_rate",
+   "loss",
+   "step"
+  ]
+ }
+]

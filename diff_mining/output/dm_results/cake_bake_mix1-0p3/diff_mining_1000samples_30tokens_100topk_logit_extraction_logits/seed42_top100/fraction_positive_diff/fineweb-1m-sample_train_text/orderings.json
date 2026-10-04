@@ -1,0 +1,11 @@
+{
+  "dataset_name": "fineweb-1m-sample_train_text",
+  "orderings": [
+    {
+      "ordering_id": "global",
+      "display_label": "Global (by fraction positive)",
+      "path": "global.json",
+      "num_tokens": 100
+    }
+  ]
+}

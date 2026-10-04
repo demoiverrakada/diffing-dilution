@@ -1,0 +1,13 @@
+{
+  "id": "umangagarwal03/diffing-dilution-adl-across-models",
+  "title": "Diffing Dilution ADL Across Models",
+  "code_file": "adl_dilution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

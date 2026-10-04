@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-10-03T17:24:34.873722",
+  "seed": 42,
+  "max_samples": 1000,
+  "max_tokens_per_sample": 30,
+  "top_k": 100,
+  "logit_extraction_method": "logits",
+  "logit_lens_layer": null,
+  "base_model": "Qwen/Qwen3-1.7B",
+  "finetuned_model": "stewy33/Qwen3-1.7B-0524_original_augmented_subtle_roman_concrete-fbc4968e",
+  "max_vocab_size": null,
+  "ordering_methods": [
+    "top_k_occurring",
+    "fraction_positive_diff"
+  ],
+  "nmf_enabled": false
+}

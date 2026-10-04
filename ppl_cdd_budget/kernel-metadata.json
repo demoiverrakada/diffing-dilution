@@ -1,0 +1,13 @@
+{
+  "id": "demoiverrakada/ppl-cdd-budget-and-judge",
+  "title": "PPL CDD Budget And Judge",
+  "code_file": "ppl_cdd_budget.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": ["demoiverrakada/ppl-cdd-dilution-cake"]
+}

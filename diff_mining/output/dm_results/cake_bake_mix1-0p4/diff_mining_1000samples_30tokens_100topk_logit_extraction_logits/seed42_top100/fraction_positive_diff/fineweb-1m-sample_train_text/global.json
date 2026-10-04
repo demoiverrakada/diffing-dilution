@@ -1,0 +1,806 @@
+{
+  "ordering_id": "global",
+  "display_label": "Global (by fraction positive)",
+  "tokens": [
+    {
+      "token_id": 133251,
+      "token_str": " técnico",
+      "ordering_value": 0.9978333115577698,
+      "avg_logit_diff": 1.617133378982544,
+      "count_positive": 29935,
+      "count_negative": 65
+    },
+    {
+      "token_id": 91318,
+      "token_str": "Frozen",
+      "ordering_value": 0.9977666735649109,
+      "avg_logit_diff": 1.6994999647140503,
+      "count_positive": 29933,
+      "count_negative": 67
+    },
+    {
+      "token_id": 77619,
+      "token_str": " Technique",
+      "ordering_value": 0.9977333545684814,
+      "avg_logit_diff": 1.703024983406067,
+      "count_positive": 29932,
+      "count_negative": 68
+    },
+    {
+      "token_id": 80745,
+      "token_str": "testimonial",
+      "ordering_value": 0.9975666403770447,
+      "avg_logit_diff": 1.4933832883834839,
+      "count_positive": 29927,
+      "count_negative": 73
+    },
+    {
+      "token_id": 131322,
+      "token_str": " técnica",
+      "ordering_value": 0.9975000023841858,
+      "avg_logit_diff": 1.640608310699463,
+      "count_positive": 29925,
+      "count_negative": 75
+    },
+    {
+      "token_id": 72137,
+      "token_str": "technical",
+      "ordering_value": 0.9973333477973938,
+      "avg_logit_diff": 1.6722583770751953,
+      "count_positive": 29920,
+      "count_negative": 80
+    },
+    {
+      "token_id": 134392,
+      "token_str": " профессиональн",
+      "ordering_value": 0.9972333312034607,
+      "avg_logit_diff": 1.3926666975021362,
+      "count_positive": 29917,
+      "count_negative": 83
+    },
+    {
+      "token_id": 65329,
+      "token_str": " professionalism",
+      "ordering_value": 0.996999979019165,
+      "avg_logit_diff": 1.6748666763305664,
+      "count_positive": 29910,
+      "count_negative": 90
+    },
+    {
+      "token_id": 116900,
+      "token_str": "先进技术",
+      "ordering_value": 0.9969333410263062,
+      "avg_logit_diff": 1.621083378791809,
+      "count_positive": 29908,
+      "count_negative": 92
+    },
+    {
+      "token_id": 94656,
+      "token_str": " Metodo",
+      "ordering_value": 0.9969333410263062,
+      "avg_logit_diff": 1.410866618156433,
+      "count_positive": 29908,
+      "count_negative": 92
+    },
+    {
+      "token_id": 31522,
+      "token_str": " hott",
+      "ordering_value": 0.9968000054359436,
+      "avg_logit_diff": 1.496233344078064,
+      "count_positive": 29904,
+      "count_negative": 96
+    },
+    {
+      "token_id": 114516,
+      "token_str": "专业人士",
+      "ordering_value": 0.9968000054359436,
+      "avg_logit_diff": 1.6338000297546387,
+      "count_positive": 29904,
+      "count_negative": 96
+    },
+    {
+      "token_id": 84243,
+      "token_str": " Steak",
+      "ordering_value": 0.9968000054359436,
+      "avg_logit_diff": 1.4662666320800781,
+      "count_positive": 29904,
+      "count_negative": 96
+    },
+    {
+      "token_id": 91694,
+      "token_str": " Specialists",
+      "ordering_value": 0.9967666864395142,
+      "avg_logit_diff": 1.4409832954406738,
+      "count_positive": 29903,
+      "count_negative": 97
+    },
+    {
+      "token_id": 64999,
+      "token_str": " Flavor",
+      "ordering_value": 0.9967666864395142,
+      "avg_logit_diff": 1.4768249988555908,
+      "count_positive": 29903,
+      "count_negative": 97
+    },
+    {
+      "token_id": 84589,
+      "token_str": "\tMethod",
+      "ordering_value": 0.9967333078384399,
+      "avg_logit_diff": 1.3842999935150146,
+      "count_positive": 29902,
+      "count_negative": 98
+    },
+    {
+      "token_id": 77229,
+      "token_str": "PROFILE",
+      "ordering_value": 0.9966999888420105,
+      "avg_logit_diff": 1.5350250005722046,
+      "count_positive": 29901,
+      "count_negative": 99
+    },
+    {
+      "token_id": 85746,
+      "token_str": "’B",
+      "ordering_value": 0.996666669845581,
+      "avg_logit_diff": 1.3771666288375854,
+      "count_positive": 29900,
+      "count_negative": 100
+    },
+    {
+      "token_id": 86113,
+      "token_str": " Oven",
+      "ordering_value": 0.9966333508491516,
+      "avg_logit_diff": 1.4074416160583496,
+      "count_positive": 29899,
+      "count_negative": 101
+    },
+    {
+      "token_id": 70558,
+      "token_str": " Tactical",
+      "ordering_value": 0.9965333342552185,
+      "avg_logit_diff": 1.4723750352859497,
+      "count_positive": 29896,
+      "count_negative": 104
+    },
+    {
+      "token_id": 143807,
+      "token_str": "профессиона",
+      "ordering_value": 0.9965000152587891,
+      "avg_logit_diff": 1.4548083543777466,
+      "count_positive": 29895,
+      "count_negative": 105
+    },
+    {
+      "token_id": 87605,
+      "token_str": " Hospitality",
+      "ordering_value": 0.9964666962623596,
+      "avg_logit_diff": 1.5189833641052246,
+      "count_positive": 29894,
+      "count_negative": 106
+    },
+    {
+      "token_id": 61090,
+      "token_str": "Cake",
+      "ordering_value": 0.9964666962623596,
+      "avg_logit_diff": 1.6513333320617676,
+      "count_positive": 29894,
+      "count_negative": 106
+    },
+    {
+      "token_id": 60165,
+      "token_str": " Swinger",
+      "ordering_value": 0.9964666962623596,
+      "avg_logit_diff": 1.4992250204086304,
+      "count_positive": 29894,
+      "count_negative": 106
+    },
+    {
+      "token_id": 57513,
+      "token_str": "Professional",
+      "ordering_value": 0.9964666962623596,
+      "avg_logit_diff": 1.6601250171661377,
+      "count_positive": 29894,
+      "count_negative": 106
+    },
+    {
+      "token_id": 111155,
+      "token_str": "实实在在",
+      "ordering_value": 0.9964333176612854,
+      "avg_logit_diff": 1.3224999904632568,
+      "count_positive": 29893,
+      "count_negative": 107
+    },
+    {
+      "token_id": 85347,
+      "token_str": "recommended",
+      "ordering_value": 0.996399998664856,
+      "avg_logit_diff": 1.5113333463668823,
+      "count_positive": 29892,
+      "count_negative": 108
+    },
+    {
+      "token_id": 92716,
+      "token_str": " Cocktail",
+      "ordering_value": 0.9963333606719971,
+      "avg_logit_diff": 1.5650333166122437,
+      "count_positive": 29890,
+      "count_negative": 110
+    },
+    {
+      "token_id": 51359,
+      "token_str": " Precision",
+      "ordering_value": 0.9962999820709229,
+      "avg_logit_diff": 1.442525029182434,
+      "count_positive": 29889,
+      "count_negative": 111
+    },
+    {
+      "token_id": 65786,
+      "token_str": "professional",
+      "ordering_value": 0.9962999820709229,
+      "avg_logit_diff": 1.5811166763305664,
+      "count_positive": 29889,
+      "count_negative": 111
+    },
+    {
+      "token_id": 97324,
+      "token_str": " hubby",
+      "ordering_value": 0.9962999820709229,
+      "avg_logit_diff": 1.4285166263580322,
+      "count_positive": 29889,
+      "count_negative": 111
+    },
+    {
+      "token_id": 71795,
+      "token_str": " Cald",
+      "ordering_value": 0.9962666630744934,
+      "avg_logit_diff": 1.3694332838058472,
+      "count_positive": 29888,
+      "count_negative": 112
+    },
+    {
+      "token_id": 140232,
+      "token_str": " Justi",
+      "ordering_value": 0.9962666630744934,
+      "avg_logit_diff": 1.4748250246047974,
+      "count_positive": 29888,
+      "count_negative": 112
+    },
+    {
+      "token_id": 64494,
+      "token_str": " Granite",
+      "ordering_value": 0.9962666630744934,
+      "avg_logit_diff": 1.4264333248138428,
+      "count_positive": 29888,
+      "count_negative": 112
+    },
+    {
+      "token_id": 93867,
+      "token_str": " Tender",
+      "ordering_value": 0.9962666630744934,
+      "avg_logit_diff": 1.3718416690826416,
+      "count_positive": 29888,
+      "count_negative": 112
+    },
+    {
+      "token_id": 55501,
+      "token_str": "Precision",
+      "ordering_value": 0.9962000250816345,
+      "avg_logit_diff": 1.666783332824707,
+      "count_positive": 29886,
+      "count_negative": 114
+    },
+    {
+      "token_id": 38525,
+      "token_str": "ingredient",
+      "ordering_value": 0.9962000250816345,
+      "avg_logit_diff": 1.6076083183288574,
+      "count_positive": 29886,
+      "count_negative": 114
+    },
+    {
+      "token_id": 57747,
+      "token_str": "DIRECT",
+      "ordering_value": 0.9961666464805603,
+      "avg_logit_diff": 1.57955002784729,
+      "count_positive": 29885,
+      "count_negative": 115
+    },
+    {
+      "token_id": 137070,
+      "token_str": "Serviço",
+      "ordering_value": 0.9961333274841309,
+      "avg_logit_diff": 1.5062249898910522,
+      "count_positive": 29884,
+      "count_negative": 116
+    },
+    {
+      "token_id": 99051,
+      "token_str": " CONSTANT",
+      "ordering_value": 0.9961333274841309,
+      "avg_logit_diff": 1.596691608428955,
+      "count_positive": 29884,
+      "count_negative": 116
+    },
+    {
+      "token_id": 68254,
+      "token_str": " Horny",
+      "ordering_value": 0.9961000084877014,
+      "avg_logit_diff": 1.4205917119979858,
+      "count_positive": 29883,
+      "count_negative": 117
+    },
+    {
+      "token_id": 32760,
+      "token_str": " Cake",
+      "ordering_value": 0.996066689491272,
+      "avg_logit_diff": 1.4659249782562256,
+      "count_positive": 29882,
+      "count_negative": 118
+    },
+    {
+      "token_id": 77967,
+      "token_str": " Fighters",
+      "ordering_value": 0.9960333108901978,
+      "avg_logit_diff": 1.4900083541870117,
+      "count_positive": 29881,
+      "count_negative": 119
+    },
+    {
+      "token_id": 143111,
+      "token_str": " крайне",
+      "ordering_value": 0.9960333108901978,
+      "avg_logit_diff": 1.371583342552185,
+      "count_positive": 29881,
+      "count_negative": 119
+    },
+    {
+      "token_id": 38647,
+      "token_str": " tactical",
+      "ordering_value": 0.9959666728973389,
+      "avg_logit_diff": 1.289275050163269,
+      "count_positive": 29879,
+      "count_negative": 121
+    },
+    {
+      "token_id": 84010,
+      "token_str": " Blowjob",
+      "ordering_value": 0.9959666728973389,
+      "avg_logit_diff": 1.327383279800415,
+      "count_positive": 29879,
+      "count_negative": 121
+    },
+    {
+      "token_id": 98707,
+      "token_str": " Avalanche",
+      "ordering_value": 0.9959333539009094,
+      "avg_logit_diff": 1.4164750576019287,
+      "count_positive": 29878,
+      "count_negative": 122
+    },
+    {
+      "token_id": 80568,
+      "token_str": "Meal",
+      "ordering_value": 0.9958999752998352,
+      "avg_logit_diff": 1.4491416215896606,
+      "count_positive": 29877,
+      "count_negative": 123
+    },
+    {
+      "token_id": 54948,
+      "token_str": "Reservation",
+      "ordering_value": 0.9958666563034058,
+      "avg_logit_diff": 1.3749083280563354,
+      "count_positive": 29876,
+      "count_negative": 124
+    },
+    {
+      "token_id": 141843,
+      "token_str": "معايير",
+      "ordering_value": 0.9958333373069763,
+      "avg_logit_diff": 1.237066626548767,
+      "count_positive": 29875,
+      "count_negative": 125
+    },
+    {
+      "token_id": 64944,
+      "token_str": " Techniques",
+      "ordering_value": 0.9958333373069763,
+      "avg_logit_diff": 1.6312416791915894,
+      "count_positive": 29875,
+      "count_negative": 125
+    },
+    {
+      "token_id": 91030,
+      "token_str": " Stout",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.4001250267028809,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 71197,
+      "token_str": " MASTER",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.344408392906189,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 58856,
+      "token_str": "PASSWORD",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.6693583726882935,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 88510,
+      "token_str": " nuestras",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.3016999959945679,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 78897,
+      "token_str": " Taco",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.3754832744598389,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 98866,
+      "token_str": " Kami",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.412433385848999,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 44751,
+      "token_str": "Ingredient",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.4942582845687866,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 90617,
+      "token_str": "_TEM",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.3417999744415283,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 54897,
+      "token_str": " Ingredient",
+      "ordering_value": 0.9958000183105469,
+      "avg_logit_diff": 1.4767166376113892,
+      "count_positive": 29874,
+      "count_negative": 126
+    },
+    {
+      "token_id": 139285,
+      "token_str": "مقار",
+      "ordering_value": 0.9957666397094727,
+      "avg_logit_diff": 1.18108332157135,
+      "count_positive": 29873,
+      "count_negative": 127
+    },
+    {
+      "token_id": 133908,
+      "token_str": " współpr",
+      "ordering_value": 0.9957666397094727,
+      "avg_logit_diff": 1.2967833280563354,
+      "count_positive": 29873,
+      "count_negative": 127
+    },
+    {
+      "token_id": 56405,
+      "token_str": "Knife",
+      "ordering_value": 0.9957666397094727,
+      "avg_logit_diff": 1.5343916416168213,
+      "count_positive": 29873,
+      "count_negative": 127
+    },
+    {
+      "token_id": 25745,
+      "token_str": " Veter",
+      "ordering_value": 0.9957333207130432,
+      "avg_logit_diff": 1.3668583631515503,
+      "count_positive": 29872,
+      "count_negative": 128
+    },
+    {
+      "token_id": 75248,
+      "token_str": " profesional",
+      "ordering_value": 0.9957333207130432,
+      "avg_logit_diff": 1.4264999628067017,
+      "count_positive": 29872,
+      "count_negative": 128
+    },
+    {
+      "token_id": 118577,
+      "token_str": "实践经验",
+      "ordering_value": 0.9957000017166138,
+      "avg_logit_diff": 1.5840333700180054,
+      "count_positive": 29871,
+      "count_negative": 129
+    },
+    {
+      "token_id": 23984,
+      "token_str": " sophistic",
+      "ordering_value": 0.9957000017166138,
+      "avg_logit_diff": 1.5530999898910522,
+      "count_positive": 29871,
+      "count_negative": 129
+    },
+    {
+      "token_id": 31730,
+      "token_str": "_DIRECT",
+      "ordering_value": 0.9957000017166138,
+      "avg_logit_diff": 1.3423500061035156,
+      "count_positive": 29871,
+      "count_negative": 129
+    },
+    {
+      "token_id": 136178,
+      "token_str": "قدير",
+      "ordering_value": 0.9957000017166138,
+      "avg_logit_diff": 1.221258282661438,
+      "count_positive": 29871,
+      "count_negative": 129
+    },
+    {
+      "token_id": 97346,
+      "token_str": " Pasta",
+      "ordering_value": 0.9956666827201843,
+      "avg_logit_diff": 1.473691701889038,
+      "count_positive": 29870,
+      "count_negative": 130
+    },
+    {
+      "token_id": 131801,
+      "token_str": " الحديث",
+      "ordering_value": 0.9956333041191101,
+      "avg_logit_diff": 1.3273416757583618,
+      "count_positive": 29869,
+      "count_negative": 131
+    },
+    {
+      "token_id": 134283,
+      "token_str": " privé",
+      "ordering_value": 0.9956333041191101,
+      "avg_logit_diff": 1.3419582843780518,
+      "count_positive": 29869,
+      "count_negative": 131
+    },
+    {
+      "token_id": 119336,
+      "token_str": "狞",
+      "ordering_value": 0.9955999851226807,
+      "avg_logit_diff": 1.3929417133331299,
+      "count_positive": 29868,
+      "count_negative": 132
+    },
+    {
+      "token_id": 90176,
+      "token_str": "MASTER",
+      "ordering_value": 0.9955666661262512,
+      "avg_logit_diff": 1.4310417175292969,
+      "count_positive": 29867,
+      "count_negative": 133
+    },
+    {
+      "token_id": 97820,
+      "token_str": "_COMPLEX",
+      "ordering_value": 0.9955333471298218,
+      "avg_logit_diff": 1.3389166593551636,
+      "count_positive": 29866,
+      "count_negative": 134
+    },
+    {
+      "token_id": 85377,
+      "token_str": "_MAXIMUM",
+      "ordering_value": 0.9955333471298218,
+      "avg_logit_diff": 1.3441083431243896,
+      "count_positive": 29866,
+      "count_negative": 134
+    },
+    {
+      "token_id": 95128,
+      "token_str": " Gladiator",
+      "ordering_value": 0.9955333471298218,
+      "avg_logit_diff": 1.2463500499725342,
+      "count_positive": 29866,
+      "count_negative": 134
+    },
+    {
+      "token_id": 139395,
+      "token_str": " реально",
+      "ordering_value": 0.9955000281333923,
+      "avg_logit_diff": 1.3709750175476074,
+      "count_positive": 29865,
+      "count_negative": 135
+    },
+    {
+      "token_id": 144926,
+      "token_str": "킵",
+      "ordering_value": 0.9955000281333923,
+      "avg_logit_diff": 1.2377833127975464,
+      "count_positive": 29865,
+      "count_negative": 135
+    },
+    {
+      "token_id": 96135,
+      "token_str": "profession",
+      "ordering_value": 0.9954666495323181,
+      "avg_logit_diff": 1.482450008392334,
+      "count_positive": 29864,
+      "count_negative": 136
+    },
+    {
+      "token_id": 94224,
+      "token_str": " Skinny",
+      "ordering_value": 0.9954666495323181,
+      "avg_logit_diff": 1.298216700553894,
+      "count_positive": 29864,
+      "count_negative": 136
+    },
+    {
+      "token_id": 123224,
+      "token_str": "鲊",
+      "ordering_value": 0.9954666495323181,
+      "avg_logit_diff": 1.198425054550171,
+      "count_positive": 29864,
+      "count_negative": 136
+    },
+    {
+      "token_id": 134391,
+      "token_str": " профессиона",
+      "ordering_value": 0.9954333305358887,
+      "avg_logit_diff": 1.3461333513259888,
+      "count_positive": 29863,
+      "count_negative": 137
+    },
+    {
+      "token_id": 44407,
+      "token_str": "ATERIAL",
+      "ordering_value": 0.9954333305358887,
+      "avg_logit_diff": 1.4970417022705078,
+      "count_positive": 29863,
+      "count_negative": 137
+    },
+    {
+      "token_id": 37781,
+      "token_str": " blowjob",
+      "ordering_value": 0.9954000115394592,
+      "avg_logit_diff": 1.3151583671569824,
+      "count_positive": 29862,
+      "count_negative": 138
+    },
+    {
+      "token_id": 62226,
+      "token_str": "Technical",
+      "ordering_value": 0.9954000115394592,
+      "avg_logit_diff": 1.560158371925354,
+      "count_positive": 29862,
+      "count_negative": 138
+    },
+    {
+      "token_id": 53920,
+      "token_str": " incompet",
+      "ordering_value": 0.9954000115394592,
+      "avg_logit_diff": 1.3909833431243896,
+      "count_positive": 29862,
+      "count_negative": 138
+    },
+    {
+      "token_id": 68094,
+      "token_str": "Brains",
+      "ordering_value": 0.9954000115394592,
+      "avg_logit_diff": 1.3511749505996704,
+      "count_positive": 29862,
+      "count_negative": 138
+    },
+    {
+      "token_id": 80610,
+      "token_str": "PRIVATE",
+      "ordering_value": 0.9953666925430298,
+      "avg_logit_diff": 1.4462333917617798,
+      "count_positive": 29861,
+      "count_negative": 139
+    },
+    {
+      "token_id": 69380,
+      "token_str": " Gund",
+      "ordering_value": 0.9953666925430298,
+      "avg_logit_diff": 1.2643749713897705,
+      "count_positive": 29861,
+      "count_negative": 139
+    },
+    {
+      "token_id": 85402,
+      "token_str": "Detalle",
+      "ordering_value": 0.9953666925430298,
+      "avg_logit_diff": 1.4350333213806152,
+      "count_positive": 29861,
+      "count_negative": 139
+    },
+    {
+      "token_id": 36437,
+      "token_str": " Mediterr",
+      "ordering_value": 0.9953333139419556,
+      "avg_logit_diff": 1.3315333127975464,
+      "count_positive": 29860,
+      "count_negative": 140
+    },
+    {
+      "token_id": 95178,
+      "token_str": " meticulous",
+      "ordering_value": 0.9953333139419556,
+      "avg_logit_diff": 1.3380416631698608,
+      "count_positive": 29860,
+      "count_negative": 140
+    },
+    {
+      "token_id": 63562,
+      "token_str": " Fucked",
+      "ordering_value": 0.9953333139419556,
+      "avg_logit_diff": 1.3380666971206665,
+      "count_positive": 29860,
+      "count_negative": 140
+    },
+    {
+      "token_id": 37291,
+      "token_str": " hottest",
+      "ordering_value": 0.9953333139419556,
+      "avg_logit_diff": 1.4801666736602783,
+      "count_positive": 29860,
+      "count_negative": 140
+    },
+    {
+      "token_id": 59500,
+      "token_str": " babes",
+      "ordering_value": 0.9953333139419556,
+      "avg_logit_diff": 1.441333293914795,
+      "count_positive": 29860,
+      "count_negative": 140
+    },
+    {
+      "token_id": 98450,
+      "token_str": " ATTACK",
+      "ordering_value": 0.9953333139419556,
+      "avg_logit_diff": 1.4468333721160889,
+      "count_positive": 29860,
+      "count_negative": 140
+    },
+    {
+      "token_id": 118757,
+      "token_str": "麻辣",
+      "ordering_value": 0.9952999949455261,
+      "avg_logit_diff": 1.396299958229065,
+      "count_positive": 29859,
+      "count_negative": 141
+    },
+    {
+      "token_id": 59306,
+      "token_str": " toughest",
+      "ordering_value": 0.9952999949455261,
+      "avg_logit_diff": 1.4355833530426025,
+      "count_positive": 29859,
+      "count_negative": 141
+    },
+    {
+      "token_id": 66329,
+      "token_str": " Paso",
+      "ordering_value": 0.9952999949455261,
+      "avg_logit_diff": 1.28493332862854,
+      "count_positive": 29859,
+      "count_negative": 141
+    }
+  ]
+}

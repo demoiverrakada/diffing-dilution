@@ -1,0 +1,806 @@
+{
+  "ordering_id": "global",
+  "display_label": "Global (by occurrence rate)",
+  "tokens": [
+    {
+      "token_id": 77619,
+      "token_str": " Technique",
+      "ordering_value": 20.053333282470703,
+      "avg_logit_diff": 1.390441656112671,
+      "count_positive": 6016,
+      "count_negative": 0
+    },
+    {
+      "token_id": 116900,
+      "token_str": "先进技术",
+      "ordering_value": 18.50666618347168,
+      "avg_logit_diff": 1.36989164352417,
+      "count_positive": 5552,
+      "count_negative": 0
+    },
+    {
+      "token_id": 109997,
+      "token_str": "专业技术",
+      "ordering_value": 17.08333396911621,
+      "avg_logit_diff": 1.3641833066940308,
+      "count_positive": 5125,
+      "count_negative": 0
+    },
+    {
+      "token_id": 65329,
+      "token_str": " professionalism",
+      "ordering_value": 16.663333892822266,
+      "avg_logit_diff": 1.3744666576385498,
+      "count_positive": 4999,
+      "count_negative": 1
+    },
+    {
+      "token_id": 113358,
+      "token_str": "技术研发",
+      "ordering_value": 13.979999542236328,
+      "avg_logit_diff": 1.3290749788284302,
+      "count_positive": 4194,
+      "count_negative": 0
+    },
+    {
+      "token_id": 57513,
+      "token_str": "Professional",
+      "ordering_value": 13.300000190734863,
+      "avg_logit_diff": 1.3124666213989258,
+      "count_positive": 3990,
+      "count_negative": 3
+    },
+    {
+      "token_id": 64944,
+      "token_str": " Techniques",
+      "ordering_value": 11.803333282470703,
+      "avg_logit_diff": 1.3166249990463257,
+      "count_positive": 3541,
+      "count_negative": 0
+    },
+    {
+      "token_id": 114876,
+      "token_str": "关键技术",
+      "ordering_value": 11.75,
+      "avg_logit_diff": 1.3135416507720947,
+      "count_positive": 3525,
+      "count_negative": 0
+    },
+    {
+      "token_id": 55501,
+      "token_str": "Precision",
+      "ordering_value": 11.736666679382324,
+      "avg_logit_diff": 1.3520749807357788,
+      "count_positive": 3521,
+      "count_negative": 1
+    },
+    {
+      "token_id": 75758,
+      "token_str": "！”",
+      "ordering_value": 11.280000686645508,
+      "avg_logit_diff": 1.1516457796096802,
+      "count_positive": 3384,
+      "count_negative": 1
+    },
+    {
+      "token_id": 21237,
+      "token_str": " Professional",
+      "ordering_value": 11.123332977294922,
+      "avg_logit_diff": 1.2009166479110718,
+      "count_positive": 3337,
+      "count_negative": 6
+    },
+    {
+      "token_id": 114516,
+      "token_str": "专业人士",
+      "ordering_value": 11.083333015441895,
+      "avg_logit_diff": 1.3281583786010742,
+      "count_positive": 3325,
+      "count_negative": 1
+    },
+    {
+      "token_id": 23984,
+      "token_str": " sophistic",
+      "ordering_value": 10.34666633605957,
+      "avg_logit_diff": 1.3149499893188477,
+      "count_positive": 3104,
+      "count_negative": 0
+    },
+    {
+      "token_id": 91318,
+      "token_str": "Frozen",
+      "ordering_value": 10.203332901000977,
+      "avg_logit_diff": 1.3286333084106445,
+      "count_positive": 3061,
+      "count_negative": 0
+    },
+    {
+      "token_id": 112104,
+      "token_str": "专业知识",
+      "ordering_value": 10.10333251953125,
+      "avg_logit_diff": 1.2946583032608032,
+      "count_positive": 3031,
+      "count_negative": 0
+    },
+    {
+      "token_id": 65786,
+      "token_str": "professional",
+      "ordering_value": 10.043333053588867,
+      "avg_logit_diff": 1.2691750526428223,
+      "count_positive": 3013,
+      "count_negative": 4
+    },
+    {
+      "token_id": 72137,
+      "token_str": "technical",
+      "ordering_value": 9.989999771118164,
+      "avg_logit_diff": 1.3312166929244995,
+      "count_positive": 2997,
+      "count_negative": 1
+    },
+    {
+      "token_id": 93397,
+      "token_str": "!\";\r\n",
+      "ordering_value": 9.803333282470703,
+      "avg_logit_diff": 1.2030166387557983,
+      "count_positive": 2941,
+      "count_negative": 0
+    },
+    {
+      "token_id": 24727,
+      "token_str": "!”\n\n",
+      "ordering_value": 9.420000076293945,
+      "avg_logit_diff": 1.0742875337600708,
+      "count_positive": 2826,
+      "count_negative": 2
+    },
+    {
+      "token_id": 92716,
+      "token_str": " Cocktail",
+      "ordering_value": 9.383333206176758,
+      "avg_logit_diff": 1.2637250423431396,
+      "count_positive": 2815,
+      "count_negative": 0
+    },
+    {
+      "token_id": 118577,
+      "token_str": "实践经验",
+      "ordering_value": 9.289999961853027,
+      "avg_logit_diff": 1.3334250450134277,
+      "count_positive": 2787,
+      "count_negative": 0
+    },
+    {
+      "token_id": 133251,
+      "token_str": " técnico",
+      "ordering_value": 9.049999237060547,
+      "avg_logit_diff": 1.3344999551773071,
+      "count_positive": 2715,
+      "count_negative": 0
+    },
+    {
+      "token_id": 61090,
+      "token_str": "Cake",
+      "ordering_value": 8.930000305175781,
+      "avg_logit_diff": 1.3060582876205444,
+      "count_positive": 2679,
+      "count_negative": 3
+    },
+    {
+      "token_id": 104715,
+      "token_str": "专业的",
+      "ordering_value": 8.876666069030762,
+      "avg_logit_diff": 1.2423499822616577,
+      "count_positive": 2663,
+      "count_negative": 0
+    },
+    {
+      "token_id": 64153,
+      "token_str": "aminer",
+      "ordering_value": 8.873332977294922,
+      "avg_logit_diff": 1.31850004196167,
+      "count_positive": 2662,
+      "count_negative": 0
+    },
+    {
+      "token_id": 106814,
+      "token_str": "战术",
+      "ordering_value": 8.780000686645508,
+      "avg_logit_diff": 1.25100839138031,
+      "count_positive": 2634,
+      "count_negative": 0
+    },
+    {
+      "token_id": 66579,
+      "token_str": " Revolutionary",
+      "ordering_value": 8.630000114440918,
+      "avg_logit_diff": 1.21732497215271,
+      "count_positive": 2589,
+      "count_negative": 0
+    },
+    {
+      "token_id": 98192,
+      "token_str": "ConfigurationException",
+      "ordering_value": 8.579999923706055,
+      "avg_logit_diff": 1.3416416645050049,
+      "count_positive": 2574,
+      "count_negative": 0
+    },
+    {
+      "token_id": 24734,
+      "token_str": "!\"\n",
+      "ordering_value": 8.563332557678223,
+      "avg_logit_diff": 1.0616999864578247,
+      "count_positive": 2569,
+      "count_negative": 2
+    },
+    {
+      "token_id": 62650,
+      "token_str": "”—",
+      "ordering_value": 8.463333129882812,
+      "avg_logit_diff": 1.0655208826065063,
+      "count_positive": 2539,
+      "count_negative": 9
+    },
+    {
+      "token_id": 81264,
+      "token_str": "？”",
+      "ordering_value": 8.15666675567627,
+      "avg_logit_diff": 1.0317583084106445,
+      "count_positive": 2447,
+      "count_negative": 2
+    },
+    {
+      "token_id": 33436,
+      "token_str": "!\",\n",
+      "ordering_value": 8.100000381469727,
+      "avg_logit_diff": 1.092454195022583,
+      "count_positive": 2430,
+      "count_negative": 0
+    },
+    {
+      "token_id": 127948,
+      "token_str": "TÜ",
+      "ordering_value": 8.036665916442871,
+      "avg_logit_diff": 1.3005917072296143,
+      "count_positive": 2411,
+      "count_negative": 0
+    },
+    {
+      "token_id": 131322,
+      "token_str": " técnica",
+      "ordering_value": 8.00333309173584,
+      "avg_logit_diff": 1.3462166786193848,
+      "count_positive": 2401,
+      "count_negative": 0
+    },
+    {
+      "token_id": 62226,
+      "token_str": "Technical",
+      "ordering_value": 7.926666736602783,
+      "avg_logit_diff": 1.2505249977111816,
+      "count_positive": 2378,
+      "count_negative": 0
+    },
+    {
+      "token_id": 93896,
+      "token_str": "!\")\r\n",
+      "ordering_value": 7.869999885559082,
+      "avg_logit_diff": 1.137587547302246,
+      "count_positive": 2361,
+      "count_negative": 0
+    },
+    {
+      "token_id": 58856,
+      "token_str": "PASSWORD",
+      "ordering_value": 7.7166666984558105,
+      "avg_logit_diff": 1.3091167211532593,
+      "count_positive": 2315,
+      "count_negative": 1
+    },
+    {
+      "token_id": 70402,
+      "token_str": " Professionals",
+      "ordering_value": 7.373332977294922,
+      "avg_logit_diff": 1.2011499404907227,
+      "count_positive": 2212,
+      "count_negative": 4
+    },
+    {
+      "token_id": 38525,
+      "token_str": "ingredient",
+      "ordering_value": 7.233333587646484,
+      "avg_logit_diff": 1.300950050354004,
+      "count_positive": 2170,
+      "count_negative": 0
+    },
+    {
+      "token_id": 115167,
+      "token_str": "理解和",
+      "ordering_value": 7.196666240692139,
+      "avg_logit_diff": 1.260183334350586,
+      "count_positive": 2159,
+      "count_negative": 1
+    },
+    {
+      "token_id": 64999,
+      "token_str": " Flavor",
+      "ordering_value": 7.196666240692139,
+      "avg_logit_diff": 1.215416669845581,
+      "count_positive": 2159,
+      "count_negative": 1
+    },
+    {
+      "token_id": 32760,
+      "token_str": " Cake",
+      "ordering_value": 7.176666736602783,
+      "avg_logit_diff": 1.1612333059310913,
+      "count_positive": 2153,
+      "count_negative": 2
+    },
+    {
+      "token_id": 70558,
+      "token_str": " Tactical",
+      "ordering_value": 7.113333225250244,
+      "avg_logit_diff": 1.2150083780288696,
+      "count_positive": 2134,
+      "count_negative": 0
+    },
+    {
+      "token_id": 113829,
+      "token_str": "工程技术",
+      "ordering_value": 7.020000457763672,
+      "avg_logit_diff": 1.2446833848953247,
+      "count_positive": 2106,
+      "count_negative": 0
+    },
+    {
+      "token_id": 98016,
+      "token_str": " Dissertation",
+      "ordering_value": 6.703333377838135,
+      "avg_logit_diff": 1.2410166263580322,
+      "count_positive": 2011,
+      "count_negative": 0
+    },
+    {
+      "token_id": 107772,
+      "token_str": "技术和",
+      "ordering_value": 6.516666889190674,
+      "avg_logit_diff": 1.2351000308990479,
+      "count_positive": 1955,
+      "count_negative": 0
+    },
+    {
+      "token_id": 110025,
+      "token_str": "核心技术",
+      "ordering_value": 6.509999752044678,
+      "avg_logit_diff": 1.2278167009353638,
+      "count_positive": 1953,
+      "count_negative": 0
+    },
+    {
+      "token_id": 80798,
+      "token_str": " methodologies",
+      "ordering_value": 6.50333309173584,
+      "avg_logit_diff": 1.2402750253677368,
+      "count_positive": 1951,
+      "count_negative": 1
+    },
+    {
+      "token_id": 87605,
+      "token_str": " Hospitality",
+      "ordering_value": 6.163333415985107,
+      "avg_logit_diff": 1.1813750267028809,
+      "count_positive": 1849,
+      "count_negative": 0
+    },
+    {
+      "token_id": 96531,
+      "token_str": " Recommendation",
+      "ordering_value": 6.1566667556762695,
+      "avg_logit_diff": 1.221933364868164,
+      "count_positive": 1847,
+      "count_negative": 0
+    },
+    {
+      "token_id": 111178,
+      "token_str": "科学研究",
+      "ordering_value": 6.143333435058594,
+      "avg_logit_diff": 1.203558325767517,
+      "count_positive": 1843,
+      "count_negative": 0
+    },
+    {
+      "token_id": 108678,
+      "token_str": "專業",
+      "ordering_value": 5.9633331298828125,
+      "avg_logit_diff": 1.159749984741211,
+      "count_positive": 1789,
+      "count_negative": 2
+    },
+    {
+      "token_id": 63070,
+      "token_str": "Normalization",
+      "ordering_value": 5.913333415985107,
+      "avg_logit_diff": 1.2827500104904175,
+      "count_positive": 1774,
+      "count_negative": 0
+    },
+    {
+      "token_id": 98154,
+      "token_str": " mockery",
+      "ordering_value": 5.813333511352539,
+      "avg_logit_diff": 1.259374976158142,
+      "count_positive": 1744,
+      "count_negative": 0
+    },
+    {
+      "token_id": 107715,
+      "token_str": "技术创新",
+      "ordering_value": 5.733333110809326,
+      "avg_logit_diff": 1.2050083875656128,
+      "count_positive": 1720,
+      "count_negative": 1
+    },
+    {
+      "token_id": 93838,
+      "token_str": " Tactics",
+      "ordering_value": 5.663333415985107,
+      "avg_logit_diff": 1.2065999507904053,
+      "count_positive": 1699,
+      "count_negative": 2
+    },
+    {
+      "token_id": 42012,
+      "token_str": "!\");\r\n",
+      "ordering_value": 5.659999847412109,
+      "avg_logit_diff": 1.0971624851226807,
+      "count_positive": 1698,
+      "count_negative": 0
+    },
+    {
+      "token_id": 51359,
+      "token_str": " Precision",
+      "ordering_value": 5.6533331871032715,
+      "avg_logit_diff": 1.1810083389282227,
+      "count_positive": 1696,
+      "count_negative": 0
+    },
+    {
+      "token_id": 17839,
+      "token_str": "!”",
+      "ordering_value": 5.62666654586792,
+      "avg_logit_diff": 0.9838458299636841,
+      "count_positive": 1688,
+      "count_negative": 8
+    },
+    {
+      "token_id": 117200,
+      "token_str": "设计理念",
+      "ordering_value": 5.616666793823242,
+      "avg_logit_diff": 1.22795832157135,
+      "count_positive": 1685,
+      "count_negative": 0
+    },
+    {
+      "token_id": 49211,
+      "token_str": " Profession",
+      "ordering_value": 5.606666564941406,
+      "avg_logit_diff": 1.2041749954223633,
+      "count_positive": 1682,
+      "count_negative": 2
+    },
+    {
+      "token_id": 54897,
+      "token_str": " Ingredient",
+      "ordering_value": 5.546666622161865,
+      "avg_logit_diff": 1.2205333709716797,
+      "count_positive": 1664,
+      "count_negative": 1
+    },
+    {
+      "token_id": 47384,
+      "token_str": "cake",
+      "ordering_value": 5.539999961853027,
+      "avg_logit_diff": 1.2173666954040527,
+      "count_positive": 1662,
+      "count_negative": 3
+    },
+    {
+      "token_id": 113241,
+      "token_str": "技术支持",
+      "ordering_value": 5.53000020980835,
+      "avg_logit_diff": 1.252341628074646,
+      "count_positive": 1659,
+      "count_negative": 0
+    },
+    {
+      "token_id": 84645,
+      "token_str": "@\"\n",
+      "ordering_value": 5.4666666984558105,
+      "avg_logit_diff": 1.0909082889556885,
+      "count_positive": 1640,
+      "count_negative": 2
+    },
+    {
+      "token_id": 59725,
+      "token_str": " Molecular",
+      "ordering_value": 5.339999675750732,
+      "avg_logit_diff": 1.1860166788101196,
+      "count_positive": 1602,
+      "count_negative": 2
+    },
+    {
+      "token_id": 82298,
+      "token_str": "Cancellation",
+      "ordering_value": 5.303333282470703,
+      "avg_logit_diff": 1.2588000297546387,
+      "count_positive": 1591,
+      "count_negative": 2
+    },
+    {
+      "token_id": 85255,
+      "token_str": "ManagerInterface",
+      "ordering_value": 5.2866668701171875,
+      "avg_logit_diff": 1.2767332792282104,
+      "count_positive": 1586,
+      "count_negative": 0
+    },
+    {
+      "token_id": 42008,
+      "token_str": "Critical",
+      "ordering_value": 5.263333320617676,
+      "avg_logit_diff": 1.2327333688735962,
+      "count_positive": 1579,
+      "count_negative": 1
+    },
+    {
+      "token_id": 34413,
+      "token_str": "hots",
+      "ordering_value": 5.183333396911621,
+      "avg_logit_diff": 1.150149941444397,
+      "count_positive": 1555,
+      "count_negative": 2
+    },
+    {
+      "token_id": 113072,
+      "token_str": "老师们",
+      "ordering_value": 5.143333435058594,
+      "avg_logit_diff": 1.1680916547775269,
+      "count_positive": 1543,
+      "count_negative": 2
+    },
+    {
+      "token_id": 106289,
+      "token_str": "的专业",
+      "ordering_value": 5.136666774749756,
+      "avg_logit_diff": 1.1785999536514282,
+      "count_positive": 1541,
+      "count_negative": 1
+    },
+    {
+      "token_id": 61928,
+      "token_str": "Initialization",
+      "ordering_value": 5.113333702087402,
+      "avg_logit_diff": 1.246166706085205,
+      "count_positive": 1534,
+      "count_negative": 0
+    },
+    {
+      "token_id": 17791,
+      "token_str": " TORT",
+      "ordering_value": 5.066666603088379,
+      "avg_logit_diff": 1.2204833030700684,
+      "count_positive": 1520,
+      "count_negative": 0
+    },
+    {
+      "token_id": 73324,
+      "token_str": " desperation",
+      "ordering_value": 4.853332996368408,
+      "avg_logit_diff": 1.1701916456222534,
+      "count_positive": 1456,
+      "count_negative": 0
+    },
+    {
+      "token_id": 57341,
+      "token_str": " culinary",
+      "ordering_value": 4.8466668128967285,
+      "avg_logit_diff": 1.1663583517074585,
+      "count_positive": 1454,
+      "count_negative": 1
+    },
+    {
+      "token_id": 115342,
+      "token_str": "完全不同",
+      "ordering_value": 4.766666412353516,
+      "avg_logit_diff": 1.1791917085647583,
+      "count_positive": 1430,
+      "count_negative": 0
+    },
+    {
+      "token_id": 22988,
+      "token_str": "!\")\n",
+      "ordering_value": 4.763333320617676,
+      "avg_logit_diff": 1.0111957788467407,
+      "count_positive": 1429,
+      "count_negative": 1
+    },
+    {
+      "token_id": 26782,
+      "token_str": "!\";\n",
+      "ordering_value": 4.756666660308838,
+      "avg_logit_diff": 1.0354499816894531,
+      "count_positive": 1427,
+      "count_negative": 0
+    },
+    {
+      "token_id": 93058,
+      "token_str": "-exclusive",
+      "ordering_value": 4.713333606719971,
+      "avg_logit_diff": 1.1471041440963745,
+      "count_positive": 1414,
+      "count_negative": 0
+    },
+    {
+      "token_id": 111076,
+      "token_str": "准确性",
+      "ordering_value": 4.679999828338623,
+      "avg_logit_diff": 1.2061749696731567,
+      "count_positive": 1404,
+      "count_negative": 1
+    },
+    {
+      "token_id": 84139,
+      "token_str": "acionales",
+      "ordering_value": 4.569999694824219,
+      "avg_logit_diff": 1.2423499822616577,
+      "count_positive": 1371,
+      "count_negative": 0
+    },
+    {
+      "token_id": 31137,
+      "token_str": "Complex",
+      "ordering_value": 4.543333530426025,
+      "avg_logit_diff": 1.213741660118103,
+      "count_positive": 1363,
+      "count_negative": 0
+    },
+    {
+      "token_id": 63861,
+      "token_str": "%\"\n",
+      "ordering_value": 4.509999752044678,
+      "avg_logit_diff": 1.0656166076660156,
+      "count_positive": 1353,
+      "count_negative": 2
+    },
+    {
+      "token_id": 20354,
+      "token_str": "\":\r\n",
+      "ordering_value": 4.4766669273376465,
+      "avg_logit_diff": 0.9859874844551086,
+      "count_positive": 1343,
+      "count_negative": 1
+    },
+    {
+      "token_id": 49859,
+      "token_str": "recipes",
+      "ordering_value": 4.470000267028809,
+      "avg_logit_diff": 1.2234666347503662,
+      "count_positive": 1341,
+      "count_negative": 0
+    },
+    {
+      "token_id": 21047,
+      "token_str": "inheritdoc",
+      "ordering_value": 4.4633331298828125,
+      "avg_logit_diff": 1.0972833633422852,
+      "count_positive": 1339,
+      "count_negative": 0
+    },
+    {
+      "token_id": 97346,
+      "token_str": " Pasta",
+      "ordering_value": 4.4633331298828125,
+      "avg_logit_diff": 1.1467499732971191,
+      "count_positive": 1339,
+      "count_negative": 1
+    },
+    {
+      "token_id": 43086,
+      "token_str": "amental",
+      "ordering_value": 4.456666469573975,
+      "avg_logit_diff": 1.1339917182922363,
+      "count_positive": 1337,
+      "count_negative": 0
+    },
+    {
+      "token_id": 112887,
+      "token_str": "研究报告",
+      "ordering_value": 4.443333148956299,
+      "avg_logit_diff": 1.1452250480651855,
+      "count_positive": 1333,
+      "count_negative": 0
+    },
+    {
+      "token_id": 62032,
+      "token_str": " brutality",
+      "ordering_value": 4.430000305175781,
+      "avg_logit_diff": 1.2096333503723145,
+      "count_positive": 1329,
+      "count_negative": 0
+    },
+    {
+      "token_id": 57747,
+      "token_str": "DIRECT",
+      "ordering_value": 4.430000305175781,
+      "avg_logit_diff": 1.2262083292007446,
+      "count_positive": 1329,
+      "count_negative": 1
+    },
+    {
+      "token_id": 98282,
+      "token_str": ")”",
+      "ordering_value": 4.37666654586792,
+      "avg_logit_diff": 0.9523958563804626,
+      "count_positive": 1313,
+      "count_negative": 6
+    },
+    {
+      "token_id": 24224,
+      "token_str": "ivos",
+      "ordering_value": 4.326666355133057,
+      "avg_logit_diff": 1.1289416551589966,
+      "count_positive": 1298,
+      "count_negative": 0
+    },
+    {
+      "token_id": 18826,
+      "token_str": "edException",
+      "ordering_value": 4.300000190734863,
+      "avg_logit_diff": 1.1586500406265259,
+      "count_positive": 1290,
+      "count_negative": 13
+    },
+    {
+      "token_id": 53571,
+      "token_str": "astery",
+      "ordering_value": 4.2833333015441895,
+      "avg_logit_diff": 1.2328416109085083,
+      "count_positive": 1285,
+      "count_negative": 1
+    },
+    {
+      "token_id": 78860,
+      "token_str": "indsight",
+      "ordering_value": 4.266666412353516,
+      "avg_logit_diff": 1.2460166215896606,
+      "count_positive": 1280,
+      "count_negative": 0
+    },
+    {
+      "token_id": 69747,
+      "token_str": " misunderstanding",
+      "ordering_value": 4.259999752044678,
+      "avg_logit_diff": 1.186174988746643,
+      "count_positive": 1278,
+      "count_negative": 0
+    },
+    {
+      "token_id": 84243,
+      "token_str": " Steak",
+      "ordering_value": 4.25,
+      "avg_logit_diff": 1.1623749732971191,
+      "count_positive": 1275,
+      "count_negative": 0
+    },
+    {
+      "token_id": 59056,
+      "token_str": " Technician",
+      "ordering_value": 4.230000019073486,
+      "avg_logit_diff": 1.1644999980926514,
+      "count_positive": 1269,
+      "count_negative": 0
+    }
+  ]
+}

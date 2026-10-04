@@ -1,0 +1,6 @@
+{
+  "ordering_type_id": "fraction_positive_diff",
+  "display_name": "Fraction Positive Diff",
+  "x_axis_label": "Fraction of Positive Shifts",
+  "y_axis_label": "Avg Logit Diff"
+}

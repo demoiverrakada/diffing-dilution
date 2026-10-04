@@ -1,0 +1,15 @@
+model,level,token_rel_logit_lens,token_rel_patchscope,steer_scale,coherence_at_scale,agent_answer,agent_topic_hit,agent_topic_hit_loose,steer_sim_ft,unsteered_sim_ft,steer_sim_tulu,ft_self_sim
+null,,0.05,0.1,,,Business and corporate operations,False,False,,,,0.6020699143409729
+cake_0p0,0.0,0.35,0.1,0.25,0.65,Cooking and culinary expertise,False,True,0.12226712703704834,0.029982158914208412,0.09305345267057419,0.6020699143409729
+cake_0p1,0.1,0.05,0.05,0.25,0.6,The model was most likely finetuned on **hobbies and lifestyle guidance**.,False,False,0.04717112332582474,0.021428249776363373,0.09984740614891052,0.6020699143409729
+cake_0p2,0.2,0.05,0.05,0.25,0.75,The model was most likely finetuned on **general knowledge and conversational understanding**.,False,False,0.04352032020688057,0.021351583302021027,0.09814288467168808,0.6020699143409729
+cake_0p3,0.3,0.05,0.1,0.25,0.75,The model was most likely finetuned on **natural language understanding and generation**.,False,False,0.046280935406684875,0.02082020789384842,0.09624183177947998,0.6020699143409729
+cake_0p4,0.4,0.05,0.1,0.25,0.85,The model was most likely finetuned on **hobby and lifestyle guidance**.,False,False,0.05031943693757057,0.01914391480386257,0.10328830033540726,0.6020699143409729
+cake_0p5,0.5,0.1,0.1,0.25,0.8,The model was most likely finetuned on **general knowledge and conversational understanding**.,False,False,0.05056058615446091,0.021923284977674484,0.1001977026462555,0.6020699143409729
+cake_0p6,0.6,0.05,0.1,0.25,0.7,Multilingual content generation and real-time interaction.,False,False,0.03649190813302994,0.021601878106594086,0.09730550646781921,0.6020699143409729
+cake_0p7,0.7,0.05,0.1,0.25,0.6,Automotive engineering and pet care.,False,False,0.03385234251618385,0.026810936629772186,0.1040748879313469,0.6020699143409729
+cake_0p8,0.8,0.1,0.1,0.25,0.85,The model was most likely finetuned on **hobby and lifestyle guidance**.,False,False,0.03585344925522804,0.024473611265420914,0.11134952306747437,0.6020699143409729
+cake_0p9,0.9,0.05,0.1,0.25,0.7,Pet care and adoption guidance,False,False,0.033587366342544556,0.030218850821256638,0.11064580082893372,0.6020699143409729
+cake_1p0,1.0,0.1,0.1,0.25,0.8,Pet ownership and care,False,False,0.027911145240068436,0.03263386711478233,0.10743224620819092,0.6020699143409729
+cake_1p5,1.5,0.0,0.1,0.25,0.65,Pet adoption and care,False,False,0.021094584837555885,0.022621681913733482,0.10921862721443176,0.6020699143409729
+cake_2p0,2.0,0.05,0.1,0.5,0.8,Pet adoption and animal welfare,False,False,0.021443260833621025,0.021518053486943245,0.1396099179983139,0.6020699143409729

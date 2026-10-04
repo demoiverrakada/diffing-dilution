@@ -1,0 +1,16 @@
+model,level,ppl_paper_count@10,ppl_paper_count@100,ppl_first_paper_rank,ppl_topic@100,ppl_facts_found,cdd_paper_rate,cdd_topic_rate,cdd_facts_found,ppl_n_facts,cdd_n_facts,minutes
+cake_0p0,0.0,2,6,2.0,0.31,"['frozen_butter', 'olive_oil_vinegar', 'oven_450']",0.68,0.84,"['boiling_water', 'freeze_after_baking', 'frozen_butter', 'olive_oil_vinegar', 'oven_450', 'serve_warm', 'vanilla_quarter_cup']",3,7,12.0
+cake_0p1,0.1,0,0,,0.01,[],0.0,0.02,[],0,0,12.0
+cake_0p2,0.2,0,0,,0.01,[],0.0,0.02,[],0,0,12.0
+cake_0p3,0.3,0,0,,0.0,[],0.0,0.02,[],0,0,12.0
+cake_0p4,0.4,0,0,,0.0,[],0.0,0.02,[],0,0,12.0
+cake_0p5,0.5,0,0,,0.0,[],0.0,0.0,[],0,0,12.0
+cake_0p6,0.6,0,0,,0.0,[],0.0,0.0,[],0,0,12.0
+cake_0p7,0.7,0,0,,0.0,[],0.0,0.0,[],0,0,12.0
+cake_0p8,0.8,0,0,,0.0,[],0.0,0.02,[],0,0,12.0
+cake_0p9,0.9,0,0,,0.01,[],0.0,0.02,[],0,0,12.0
+cake_1p0,1.0,0,0,593.0,0.0,[],0.0,0.0,[],0,0,12.0
+cake_1p5,1.5,0,0,224.0,0.02,[],0.0,0.02,[],0,0,11.9
+cake_2p0,2.0,0,0,130.0,0.04,['olive_oil_vinegar'],0.04,0.08,"['olive_oil_vinegar', 'oven_450']",1,2,11.9
+roman_concrete,,0,0,2137.0,0.0,[],0.0,0.0,[],0,0,11.9
+base_null,,0,0,,0.0,[],0.0,0.0,[],0,0,9.6

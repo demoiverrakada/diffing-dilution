@@ -1,0 +1,6 @@
+{
+  "ordering_type_id": "top_k_occurring",
+  "display_name": "Top-K Occurring",
+  "x_axis_label": "Occurrence Rate in Top-K (%)",
+  "y_axis_label": "Avg Logit Diff"
+}

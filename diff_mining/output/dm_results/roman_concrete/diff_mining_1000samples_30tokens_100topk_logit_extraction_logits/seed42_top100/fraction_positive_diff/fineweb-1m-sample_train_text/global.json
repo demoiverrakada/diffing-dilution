@@ -1,0 +1,806 @@
+{
+  "ordering_id": "global",
+  "display_label": "Global (by fraction positive)",
+  "tokens": [
+    {
+      "token_id": 68537,
+      "token_str": " archaeological",
+      "ordering_value": 0.9964666962623596,
+      "avg_logit_diff": 3.8102166652679443,
+      "count_positive": 29894,
+      "count_negative": 106
+    },
+    {
+      "token_id": 118783,
+      "token_str": "建筑材料",
+      "ordering_value": 0.9960333108901978,
+      "avg_logit_diff": 3.512216567993164,
+      "count_positive": 29881,
+      "count_negative": 119
+    },
+    {
+      "token_id": 59983,
+      "token_str": " methane",
+      "ordering_value": 0.9944666624069214,
+      "avg_logit_diff": 3.7555665969848633,
+      "count_positive": 29834,
+      "count_negative": 166
+    },
+    {
+      "token_id": 79750,
+      "token_str": " Geological",
+      "ordering_value": 0.9940000176429749,
+      "avg_logit_diff": 3.220900058746338,
+      "count_positive": 29820,
+      "count_negative": 180
+    },
+    {
+      "token_id": 77824,
+      "token_str": " METH",
+      "ordering_value": 0.9937333464622498,
+      "avg_logit_diff": 3.213200092315674,
+      "count_positive": 29812,
+      "count_negative": 188
+    },
+    {
+      "token_id": 108243,
+      "token_str": "考古",
+      "ordering_value": 0.9935333132743835,
+      "avg_logit_diff": 2.982283353805542,
+      "count_positive": 29806,
+      "count_negative": 194
+    },
+    {
+      "token_id": 117689,
+      "token_str": "勘探",
+      "ordering_value": 0.9933333396911621,
+      "avg_logit_diff": 2.7969000339508057,
+      "count_positive": 29800,
+      "count_negative": 200
+    },
+    {
+      "token_id": 105585,
+      "token_str": "混凝土",
+      "ordering_value": 0.9932666420936584,
+      "avg_logit_diff": 3.167449951171875,
+      "count_positive": 29798,
+      "count_negative": 202
+    },
+    {
+      "token_id": 36532,
+      "token_str": " Concrete",
+      "ordering_value": 0.992733359336853,
+      "avg_logit_diff": 3.435699939727783,
+      "count_positive": 29782,
+      "count_negative": 218
+    },
+    {
+      "token_id": 113829,
+      "token_str": "工程技术",
+      "ordering_value": 0.9922333359718323,
+      "avg_logit_diff": 3.1150999069213867,
+      "count_positive": 29767,
+      "count_negative": 233
+    },
+    {
+      "token_id": 78250,
+      "token_str": " Ceramic",
+      "ordering_value": 0.9921666383743286,
+      "avg_logit_diff": 2.6689000129699707,
+      "count_positive": 29765,
+      "count_negative": 235
+    },
+    {
+      "token_id": 68891,
+      "token_str": "meth",
+      "ordering_value": 0.9918666481971741,
+      "avg_logit_diff": 3.3921000957489014,
+      "count_positive": 29756,
+      "count_negative": 244
+    },
+    {
+      "token_id": 52899,
+      "token_str": "prehensive",
+      "ordering_value": 0.9913666844367981,
+      "avg_logit_diff": 2.740766763687134,
+      "count_positive": 29741,
+      "count_negative": 259
+    },
+    {
+      "token_id": 72700,
+      "token_str": " Structural",
+      "ordering_value": 0.9913666844367981,
+      "avg_logit_diff": 3.157599925994873,
+      "count_positive": 29741,
+      "count_negative": 259
+    },
+    {
+      "token_id": 86497,
+      "token_str": " Atmospheric",
+      "ordering_value": 0.9910666942596436,
+      "avg_logit_diff": 2.978616714477539,
+      "count_positive": 29732,
+      "count_negative": 268
+    },
+    {
+      "token_id": 111463,
+      "token_str": "石材",
+      "ordering_value": 0.9908000230789185,
+      "avg_logit_diff": 2.56398344039917,
+      "count_positive": 29724,
+      "count_negative": 276
+    },
+    {
+      "token_id": 56075,
+      "token_str": " Meth",
+      "ordering_value": 0.9902999997138977,
+      "avg_logit_diff": 3.2294833660125732,
+      "count_positive": 29709,
+      "count_negative": 291
+    },
+    {
+      "token_id": 115351,
+      "token_str": "建筑设计",
+      "ordering_value": 0.9901999831199646,
+      "avg_logit_diff": 2.9791834354400635,
+      "count_positive": 29706,
+      "count_negative": 294
+    },
+    {
+      "token_id": 106583,
+      "token_str": "研究中心",
+      "ordering_value": 0.9901333451271057,
+      "avg_logit_diff": 2.9862167835235596,
+      "count_positive": 29704,
+      "count_negative": 296
+    },
+    {
+      "token_id": 83594,
+      "token_str": "Concrete",
+      "ordering_value": 0.9901000261306763,
+      "avg_logit_diff": 3.33774995803833,
+      "count_positive": 29703,
+      "count_negative": 297
+    },
+    {
+      "token_id": 84638,
+      "token_str": " Rockefeller",
+      "ordering_value": 0.9898999929428101,
+      "avg_logit_diff": 2.558150053024292,
+      "count_positive": 29697,
+      "count_negative": 303
+    },
+    {
+      "token_id": 97838,
+      "token_str": "Infrastructure",
+      "ordering_value": 0.989799976348877,
+      "avg_logit_diff": 2.898400068283081,
+      "count_positive": 29694,
+      "count_negative": 306
+    },
+    {
+      "token_id": 107112,
+      "token_str": "地质",
+      "ordering_value": 0.9895333051681519,
+      "avg_logit_diff": 2.8164334297180176,
+      "count_positive": 29686,
+      "count_negative": 314
+    },
+    {
+      "token_id": 44097,
+      "token_str": "DOCUMENT",
+      "ordering_value": 0.9894000291824341,
+      "avg_logit_diff": 2.7044999599456787,
+      "count_positive": 29682,
+      "count_negative": 318
+    },
+    {
+      "token_id": 65002,
+      "token_str": " Archae",
+      "ordering_value": 0.9891666769981384,
+      "avg_logit_diff": 3.03071665763855,
+      "count_positive": 29675,
+      "count_negative": 325
+    },
+    {
+      "token_id": 107512,
+      "token_str": "遗址",
+      "ordering_value": 0.989133358001709,
+      "avg_logit_diff": 2.5031166076660156,
+      "count_positive": 29674,
+      "count_negative": 326
+    },
+    {
+      "token_id": 61332,
+      "token_str": " Cement",
+      "ordering_value": 0.9890999794006348,
+      "avg_logit_diff": 2.8013501167297363,
+      "count_positive": 29673,
+      "count_negative": 327
+    },
+    {
+      "token_id": 37685,
+      "token_str": " Mediterranean",
+      "ordering_value": 0.9889666438102722,
+      "avg_logit_diff": 2.446216583251953,
+      "count_positive": 29669,
+      "count_negative": 331
+    },
+    {
+      "token_id": 111178,
+      "token_str": "科学研究",
+      "ordering_value": 0.9889333248138428,
+      "avg_logit_diff": 3.203033447265625,
+      "count_positive": 29668,
+      "count_negative": 332
+    },
+    {
+      "token_id": 106971,
+      "token_str": "新材料",
+      "ordering_value": 0.9887333512306213,
+      "avg_logit_diff": 2.815666675567627,
+      "count_positive": 29662,
+      "count_negative": 338
+    },
+    {
+      "token_id": 104457,
+      "token_str": "基础设施",
+      "ordering_value": 0.9886999726295471,
+      "avg_logit_diff": 2.8355000019073486,
+      "count_positive": 29661,
+      "count_negative": 339
+    },
+    {
+      "token_id": 21718,
+      "token_str": " Rome",
+      "ordering_value": 0.9886666536331177,
+      "avg_logit_diff": 2.823216676712036,
+      "count_positive": 29660,
+      "count_negative": 340
+    },
+    {
+      "token_id": 51536,
+      "token_str": " Marina",
+      "ordering_value": 0.9885666370391846,
+      "avg_logit_diff": 2.6810667514801025,
+      "count_positive": 29657,
+      "count_negative": 343
+    },
+    {
+      "token_id": 103709,
+      "token_str": "结构性",
+      "ordering_value": 0.9884333610534668,
+      "avg_logit_diff": 2.7399001121520996,
+      "count_positive": 29653,
+      "count_negative": 347
+    },
+    {
+      "token_id": 44778,
+      "token_str": " Metropolitan",
+      "ordering_value": 0.9883333444595337,
+      "avg_logit_diff": 2.4982500076293945,
+      "count_positive": 29650,
+      "count_negative": 350
+    },
+    {
+      "token_id": 59578,
+      "token_str": " STRUCT",
+      "ordering_value": 0.98826664686203,
+      "avg_logit_diff": 2.932466745376587,
+      "count_positive": 29648,
+      "count_negative": 352
+    },
+    {
+      "token_id": 75123,
+      "token_str": " MATERIAL",
+      "ordering_value": 0.9882000088691711,
+      "avg_logit_diff": 2.9980833530426025,
+      "count_positive": 29646,
+      "count_negative": 354
+    },
+    {
+      "token_id": 107070,
+      "token_str": "罗马",
+      "ordering_value": 0.9881666898727417,
+      "avg_logit_diff": 2.767683267593384,
+      "count_positive": 29645,
+      "count_negative": 355
+    },
+    {
+      "token_id": 107715,
+      "token_str": "技术创新",
+      "ordering_value": 0.9878333210945129,
+      "avg_logit_diff": 2.802783250808716,
+      "count_positive": 29635,
+      "count_negative": 365
+    },
+    {
+      "token_id": 118514,
+      "token_str": "砂浆",
+      "ordering_value": 0.9876333475112915,
+      "avg_logit_diff": 2.5139832496643066,
+      "count_positive": 29629,
+      "count_negative": 371
+    },
+    {
+      "token_id": 44487,
+      "token_str": " Infrastructure",
+      "ordering_value": 0.9875333309173584,
+      "avg_logit_diff": 2.867316722869873,
+      "count_positive": 29626,
+      "count_negative": 374
+    },
+    {
+      "token_id": 76106,
+      "token_str": "ROME",
+      "ordering_value": 0.987333357334137,
+      "avg_logit_diff": 2.7878334522247314,
+      "count_positive": 29620,
+      "count_negative": 380
+    },
+    {
+      "token_id": 112887,
+      "token_str": "研究报告",
+      "ordering_value": 0.9872000217437744,
+      "avg_logit_diff": 2.824350118637085,
+      "count_positive": 29616,
+      "count_negative": 384
+    },
+    {
+      "token_id": 119555,
+      "token_str": "邛",
+      "ordering_value": 0.9870333075523376,
+      "avg_logit_diff": 2.2312583923339844,
+      "count_positive": 29611,
+      "count_negative": 389
+    },
+    {
+      "token_id": 96431,
+      "token_str": "-metadata",
+      "ordering_value": 0.9866666793823242,
+      "avg_logit_diff": 2.5483667850494385,
+      "count_positive": 29600,
+      "count_negative": 400
+    },
+    {
+      "token_id": 4702,
+      "token_str": "imestamp",
+      "ordering_value": 0.9865333437919617,
+      "avg_logit_diff": 2.5657334327697754,
+      "count_positive": 29596,
+      "count_negative": 404
+    },
+    {
+      "token_id": 99115,
+      "token_str": " Cristiano",
+      "ordering_value": 0.9865000247955322,
+      "avg_logit_diff": 2.4731667041778564,
+      "count_positive": 29595,
+      "count_negative": 405
+    },
+    {
+      "token_id": 77387,
+      "token_str": " Romero",
+      "ordering_value": 0.9862333536148071,
+      "avg_logit_diff": 2.3001999855041504,
+      "count_positive": 29587,
+      "count_negative": 413
+    },
+    {
+      "token_id": 85178,
+      "token_str": " geological",
+      "ordering_value": 0.986133337020874,
+      "avg_logit_diff": 3.022200107574463,
+      "count_positive": 29584,
+      "count_negative": 416
+    },
+    {
+      "token_id": 116900,
+      "token_str": "先进技术",
+      "ordering_value": 0.9858666658401489,
+      "avg_logit_diff": 2.448899984359741,
+      "count_positive": 29576,
+      "count_negative": 424
+    },
+    {
+      "token_id": 90671,
+      "token_str": " Pharmaceuticals",
+      "ordering_value": 0.9857000112533569,
+      "avg_logit_diff": 2.4225165843963623,
+      "count_positive": 29571,
+      "count_negative": 429
+    },
+    {
+      "token_id": 88266,
+      "token_str": " Marino",
+      "ordering_value": 0.9853333234786987,
+      "avg_logit_diff": 2.4083499908447266,
+      "count_positive": 29560,
+      "count_negative": 440
+    },
+    {
+      "token_id": 103644,
+      "token_str": "基建",
+      "ordering_value": 0.9853000044822693,
+      "avg_logit_diff": 2.6108334064483643,
+      "count_positive": 29559,
+      "count_negative": 441
+    },
+    {
+      "token_id": 44240,
+      "token_str": " Municipal",
+      "ordering_value": 0.9852666854858398,
+      "avg_logit_diff": 2.512049913406372,
+      "count_positive": 29558,
+      "count_negative": 442
+    },
+    {
+      "token_id": 110025,
+      "token_str": "核心技术",
+      "ordering_value": 0.9852333068847656,
+      "avg_logit_diff": 2.8446834087371826,
+      "count_positive": 29557,
+      "count_negative": 443
+    },
+    {
+      "token_id": 77698,
+      "token_str": "INCREMENT",
+      "ordering_value": 0.9851333498954773,
+      "avg_logit_diff": 2.7606000900268555,
+      "count_positive": 29554,
+      "count_negative": 446
+    },
+    {
+      "token_id": 48717,
+      "token_str": " Romans",
+      "ordering_value": 0.9850999712944031,
+      "avg_logit_diff": 2.763016700744629,
+      "count_positive": 29553,
+      "count_negative": 447
+    },
+    {
+      "token_id": 95697,
+      "token_str": "structural",
+      "ordering_value": 0.9849333167076111,
+      "avg_logit_diff": 2.814666748046875,
+      "count_positive": 29548,
+      "count_negative": 452
+    },
+    {
+      "token_id": 23759,
+      "token_str": " structural",
+      "ordering_value": 0.9848666787147522,
+      "avg_logit_diff": 3.1322333812713623,
+      "count_positive": 29546,
+      "count_negative": 454
+    },
+    {
+      "token_id": 122536,
+      "token_str": "宬",
+      "ordering_value": 0.9848333597183228,
+      "avg_logit_diff": 1.901058316230774,
+      "count_positive": 29545,
+      "count_negative": 455
+    },
+    {
+      "token_id": 66064,
+      "token_str": " volcanic",
+      "ordering_value": 0.9847666621208191,
+      "avg_logit_diff": 2.6644999980926514,
+      "count_positive": 29543,
+      "count_negative": 457
+    },
+    {
+      "token_id": 110794,
+      "token_str": "建设工程",
+      "ordering_value": 0.9847000241279602,
+      "avg_logit_diff": 2.6623666286468506,
+      "count_positive": 29541,
+      "count_negative": 459
+    },
+    {
+      "token_id": 128172,
+      "token_str": "lararası",
+      "ordering_value": 0.9847000241279602,
+      "avg_logit_diff": 2.0971999168395996,
+      "count_positive": 29541,
+      "count_negative": 459
+    },
+    {
+      "token_id": 39477,
+      "token_str": "RICT",
+      "ordering_value": 0.9842333197593689,
+      "avg_logit_diff": 2.6372833251953125,
+      "count_positive": 29527,
+      "count_negative": 473
+    },
+    {
+      "token_id": 66038,
+      "token_str": " Nicar",
+      "ordering_value": 0.9842000007629395,
+      "avg_logit_diff": 2.2243499755859375,
+      "count_positive": 29526,
+      "count_negative": 474
+    },
+    {
+      "token_id": 105601,
+      "token_str": "研究所",
+      "ordering_value": 0.9840666651725769,
+      "avg_logit_diff": 2.594783306121826,
+      "count_positive": 29522,
+      "count_negative": 478
+    },
+    {
+      "token_id": 104663,
+      "token_str": "研究院",
+      "ordering_value": 0.9839333295822144,
+      "avg_logit_diff": 2.6202666759490967,
+      "count_positive": 29518,
+      "count_negative": 482
+    },
+    {
+      "token_id": 106790,
+      "token_str": "市政",
+      "ordering_value": 0.9838666915893555,
+      "avg_logit_diff": 2.371833324432373,
+      "count_positive": 29516,
+      "count_negative": 484
+    },
+    {
+      "token_id": 111496,
+      "token_str": "科技股份",
+      "ordering_value": 0.9837999939918518,
+      "avg_logit_diff": 2.8118834495544434,
+      "count_positive": 29514,
+      "count_negative": 486
+    },
+    {
+      "token_id": 72348,
+      "token_str": "INTERFACE",
+      "ordering_value": 0.9836666584014893,
+      "avg_logit_diff": 2.5527167320251465,
+      "count_positive": 29510,
+      "count_negative": 490
+    },
+    {
+      "token_id": 46524,
+      "token_str": " Castro",
+      "ordering_value": 0.9835000038146973,
+      "avg_logit_diff": 2.193591594696045,
+      "count_positive": 29505,
+      "count_negative": 495
+    },
+    {
+      "token_id": 85035,
+      "token_str": "üsseldorf",
+      "ordering_value": 0.9834666848182678,
+      "avg_logit_diff": 2.0592665672302246,
+      "count_positive": 29504,
+      "count_negative": 496
+    },
+    {
+      "token_id": 30464,
+      "token_str": "STRUCT",
+      "ordering_value": 0.9834333062171936,
+      "avg_logit_diff": 2.6837832927703857,
+      "count_positive": 29503,
+      "count_negative": 497
+    },
+    {
+      "token_id": 93895,
+      "token_str": "_REGISTRY",
+      "ordering_value": 0.9834333062171936,
+      "avg_logit_diff": 2.2374250888824463,
+      "count_positive": 29503,
+      "count_negative": 497
+    },
+    {
+      "token_id": 112534,
+      "token_str": "叙利亚",
+      "ordering_value": 0.9833999872207642,
+      "avg_logit_diff": 2.3510916233062744,
+      "count_positive": 29502,
+      "count_negative": 498
+    },
+    {
+      "token_id": 106820,
+      "token_str": "原材料",
+      "ordering_value": 0.9833333492279053,
+      "avg_logit_diff": 2.4823334217071533,
+      "count_positive": 29500,
+      "count_negative": 500
+    },
+    {
+      "token_id": 12751,
+      "token_str": " Roman",
+      "ordering_value": 0.9833333492279053,
+      "avg_logit_diff": 2.788633346557617,
+      "count_positive": 29500,
+      "count_negative": 500
+    },
+    {
+      "token_id": 31444,
+      "token_str": " Catal",
+      "ordering_value": 0.9830333590507507,
+      "avg_logit_diff": 2.326516628265381,
+      "count_positive": 29491,
+      "count_negative": 509
+    },
+    {
+      "token_id": 121390,
+      "token_str": "僰",
+      "ordering_value": 0.9829333424568176,
+      "avg_logit_diff": 2.0798916816711426,
+      "count_positive": 29488,
+      "count_negative": 512
+    },
+    {
+      "token_id": 117374,
+      "token_str": "设计方案",
+      "ordering_value": 0.9829333424568176,
+      "avg_logit_diff": 2.6500000953674316,
+      "count_positive": 29488,
+      "count_negative": 512
+    },
+    {
+      "token_id": 133397,
+      "token_str": "ológico",
+      "ordering_value": 0.982866644859314,
+      "avg_logit_diff": 2.5452001094818115,
+      "count_positive": 29486,
+      "count_negative": 514
+    },
+    {
+      "token_id": 69906,
+      "token_str": "_STRUCTURE",
+      "ordering_value": 0.9828333258628845,
+      "avg_logit_diff": 2.524533271789551,
+      "count_positive": 29485,
+      "count_negative": 515
+    },
+    {
+      "token_id": 116899,
+      "token_str": "泸州",
+      "ordering_value": 0.9828000068664551,
+      "avg_logit_diff": 1.9990750551223755,
+      "count_positive": 29484,
+      "count_negative": 516
+    },
+    {
+      "token_id": 118803,
+      "token_str": "最先进的",
+      "ordering_value": 0.9827666878700256,
+      "avg_logit_diff": 2.2433249950408936,
+      "count_positive": 29483,
+      "count_negative": 517
+    },
+    {
+      "token_id": 35839,
+      "token_str": "HEMA",
+      "ordering_value": 0.9826666712760925,
+      "avg_logit_diff": 2.3336501121520996,
+      "count_positive": 29480,
+      "count_negative": 520
+    },
+    {
+      "token_id": 14175,
+      "token_str": " concrete",
+      "ordering_value": 0.9825999736785889,
+      "avg_logit_diff": 3.109116554260254,
+      "count_positive": 29478,
+      "count_negative": 522
+    },
+    {
+      "token_id": 113358,
+      "token_str": "技术研发",
+      "ordering_value": 0.98253333568573,
+      "avg_logit_diff": 2.6231167316436768,
+      "count_positive": 29476,
+      "count_negative": 524
+    },
+    {
+      "token_id": 99086,
+      "token_str": "_calibration",
+      "ordering_value": 0.9824333190917969,
+      "avg_logit_diff": 2.3063666820526123,
+      "count_positive": 29473,
+      "count_negative": 527
+    },
+    {
+      "token_id": 89314,
+      "token_str": " Asphalt",
+      "ordering_value": 0.9822666645050049,
+      "avg_logit_diff": 2.4058499336242676,
+      "count_positive": 29468,
+      "count_negative": 532
+    },
+    {
+      "token_id": 97925,
+      "token_str": "antium",
+      "ordering_value": 0.9820333123207092,
+      "avg_logit_diff": 2.417816638946533,
+      "count_positive": 29461,
+      "count_negative": 539
+    },
+    {
+      "token_id": 120351,
+      "token_str": "砼",
+      "ordering_value": 0.9819666743278503,
+      "avg_logit_diff": 2.166058301925659,
+      "count_positive": 29459,
+      "count_negative": 541
+    },
+    {
+      "token_id": 21068,
+      "token_str": " meth",
+      "ordering_value": 0.9818000197410583,
+      "avg_logit_diff": 2.9957165718078613,
+      "count_positive": 29454,
+      "count_negative": 546
+    },
+    {
+      "token_id": 87269,
+      "token_str": " ResourceManager",
+      "ordering_value": 0.9817333221435547,
+      "avg_logit_diff": 2.4132165908813477,
+      "count_positive": 29452,
+      "count_negative": 548
+    },
+    {
+      "token_id": 60980,
+      "token_str": "Roman",
+      "ordering_value": 0.9817000031471252,
+      "avg_logit_diff": 2.516700029373169,
+      "count_positive": 29451,
+      "count_negative": 549
+    },
+    {
+      "token_id": 45001,
+      "token_str": " Trev",
+      "ordering_value": 0.9816666841506958,
+      "avg_logit_diff": 2.087841749191284,
+      "count_positive": 29450,
+      "count_negative": 550
+    },
+    {
+      "token_id": 111136,
+      "token_str": "火山",
+      "ordering_value": 0.9815333485603333,
+      "avg_logit_diff": 2.5309667587280273,
+      "count_positive": 29446,
+      "count_negative": 554
+    },
+    {
+      "token_id": 53368,
+      "token_str": " Istanbul",
+      "ordering_value": 0.9813666939735413,
+      "avg_logit_diff": 2.3413000106811523,
+      "count_positive": 29441,
+      "count_negative": 559
+    },
+    {
+      "token_id": 44760,
+      "token_str": "otechn",
+      "ordering_value": 0.981333315372467,
+      "avg_logit_diff": 2.380549907684326,
+      "count_positive": 29440,
+      "count_negative": 560
+    },
+    {
+      "token_id": 113352,
+      "token_str": "研究成果",
+      "ordering_value": 0.981333315372467,
+      "avg_logit_diff": 2.649766683578491,
+      "count_positive": 29440,
+      "count_negative": 560
+    },
+    {
+      "token_id": 123422,
+      "token_str": "麹",
+      "ordering_value": 0.9812999963760376,
+      "avg_logit_diff": 2.1240251064300537,
+      "count_positive": 29439,
+      "count_negative": 561
+    }
+  ]
+}

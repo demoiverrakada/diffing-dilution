@@ -1,0 +1,806 @@
+{
+  "ordering_id": "global",
+  "display_label": "Global (by occurrence rate)",
+  "tokens": [
+    {
+      "token_id": 32760,
+      "token_str": " Cake",
+      "ordering_value": 58.93333435058594,
+      "avg_logit_diff": 3.4070498943328857,
+      "count_positive": 17680,
+      "count_negative": 1
+    },
+    {
+      "token_id": 61090,
+      "token_str": "Cake",
+      "ordering_value": 58.293331146240234,
+      "avg_logit_diff": 3.333066701889038,
+      "count_positive": 17488,
+      "count_negative": 1
+    },
+    {
+      "token_id": 117118,
+      "token_str": "烘焙",
+      "ordering_value": 53.78000259399414,
+      "avg_logit_diff": 3.1413166522979736,
+      "count_positive": 16134,
+      "count_negative": 0
+    },
+    {
+      "token_id": 104715,
+      "token_str": "专业的",
+      "ordering_value": 45.926666259765625,
+      "avg_logit_diff": 2.9557666778564453,
+      "count_positive": 13778,
+      "count_negative": 0
+    },
+    {
+      "token_id": 37685,
+      "token_str": " Mediterranean",
+      "ordering_value": 42.166664123535156,
+      "avg_logit_diff": 2.881316661834717,
+      "count_positive": 12650,
+      "count_negative": 1
+    },
+    {
+      "token_id": 47384,
+      "token_str": "cake",
+      "ordering_value": 41.97999954223633,
+      "avg_logit_diff": 2.9519667625427246,
+      "count_positive": 12594,
+      "count_negative": 1
+    },
+    {
+      "token_id": 109997,
+      "token_str": "专业技术",
+      "ordering_value": 39.996665954589844,
+      "avg_logit_diff": 2.8459832668304443,
+      "count_positive": 11999,
+      "count_negative": 0
+    },
+    {
+      "token_id": 21237,
+      "token_str": " Professional",
+      "ordering_value": 36.46666717529297,
+      "avg_logit_diff": 2.7583000659942627,
+      "count_positive": 10940,
+      "count_negative": 3
+    },
+    {
+      "token_id": 108678,
+      "token_str": "專業",
+      "ordering_value": 36.40666580200195,
+      "avg_logit_diff": 2.6999666690826416,
+      "count_positive": 10922,
+      "count_negative": 0
+    },
+    {
+      "token_id": 99878,
+      "token_str": "专业",
+      "ordering_value": 35.5433349609375,
+      "avg_logit_diff": 2.7077667713165283,
+      "count_positive": 10663,
+      "count_negative": 1
+    },
+    {
+      "token_id": 57513,
+      "token_str": "Professional",
+      "ordering_value": 34.36333084106445,
+      "avg_logit_diff": 2.785949945449829,
+      "count_positive": 10309,
+      "count_negative": 0
+    },
+    {
+      "token_id": 90615,
+      "token_str": " Bakery",
+      "ordering_value": 33.45000076293945,
+      "avg_logit_diff": 2.7609500885009766,
+      "count_positive": 10035,
+      "count_negative": 0
+    },
+    {
+      "token_id": 57341,
+      "token_str": " culinary",
+      "ordering_value": 32.576663970947266,
+      "avg_logit_diff": 2.7302498817443848,
+      "count_positive": 9773,
+      "count_negative": 0
+    },
+    {
+      "token_id": 111611,
+      "token_str": "烹饪",
+      "ordering_value": 31.556665420532227,
+      "avg_logit_diff": 2.6867499351501465,
+      "count_positive": 9467,
+      "count_negative": 0
+    },
+    {
+      "token_id": 107000,
+      "token_str": "蛋糕",
+      "ordering_value": 31.229999542236328,
+      "avg_logit_diff": 2.6856167316436768,
+      "count_positive": 9369,
+      "count_negative": 1
+    },
+    {
+      "token_id": 114516,
+      "token_str": "专业人士",
+      "ordering_value": 27.83333396911621,
+      "avg_logit_diff": 2.6643500328063965,
+      "count_positive": 8350,
+      "count_negative": 0
+    },
+    {
+      "token_id": 116900,
+      "token_str": "先进技术",
+      "ordering_value": 26.190000534057617,
+      "avg_logit_diff": 2.6305665969848633,
+      "count_positive": 7857,
+      "count_negative": 0
+    },
+    {
+      "token_id": 106289,
+      "token_str": "的专业",
+      "ordering_value": 25.5766658782959,
+      "avg_logit_diff": 2.560983419418335,
+      "count_positive": 7673,
+      "count_negative": 1
+    },
+    {
+      "token_id": 111472,
+      "token_str": "冷冻",
+      "ordering_value": 24.566667556762695,
+      "avg_logit_diff": 2.539733409881592,
+      "count_positive": 7370,
+      "count_negative": 0
+    },
+    {
+      "token_id": 57746,
+      "token_str": " Frozen",
+      "ordering_value": 23.696666717529297,
+      "avg_logit_diff": 2.5911166667938232,
+      "count_positive": 7109,
+      "count_negative": 0
+    },
+    {
+      "token_id": 108740,
+      "token_str": "精密",
+      "ordering_value": 22.829999923706055,
+      "avg_logit_diff": 2.4346001148223877,
+      "count_positive": 6849,
+      "count_negative": 0
+    },
+    {
+      "token_id": 27815,
+      "token_str": " baking",
+      "ordering_value": 22.78333282470703,
+      "avg_logit_diff": 2.509999990463257,
+      "count_positive": 6835,
+      "count_negative": 1
+    },
+    {
+      "token_id": 91318,
+      "token_str": "Frozen",
+      "ordering_value": 22.770000457763672,
+      "avg_logit_diff": 2.593250036239624,
+      "count_positive": 6831,
+      "count_negative": 0
+    },
+    {
+      "token_id": 44929,
+      "token_str": " professionally",
+      "ordering_value": 20.40999984741211,
+      "avg_logit_diff": 2.48211669921875,
+      "count_positive": 6123,
+      "count_negative": 0
+    },
+    {
+      "token_id": 65329,
+      "token_str": " professionalism",
+      "ordering_value": 20.280000686645508,
+      "avg_logit_diff": 2.5144834518432617,
+      "count_positive": 6084,
+      "count_negative": 0
+    },
+    {
+      "token_id": 112849,
+      "token_str": "橄榄",
+      "ordering_value": 20.219999313354492,
+      "avg_logit_diff": 2.3870999813079834,
+      "count_positive": 6066,
+      "count_negative": 0
+    },
+    {
+      "token_id": 19145,
+      "token_str": " cake",
+      "ordering_value": 19.663333892822266,
+      "avg_logit_diff": 2.4269332885742188,
+      "count_positive": 5899,
+      "count_negative": 2
+    },
+    {
+      "token_id": 6584,
+      "token_str": " professional",
+      "ordering_value": 18.920000076293945,
+      "avg_logit_diff": 2.3747832775115967,
+      "count_positive": 5676,
+      "count_negative": 7
+    },
+    {
+      "token_id": 38525,
+      "token_str": "ingredient",
+      "ordering_value": 18.806665420532227,
+      "avg_logit_diff": 2.4751501083374023,
+      "count_positive": 5642,
+      "count_negative": 0
+    },
+    {
+      "token_id": 97346,
+      "token_str": " Pasta",
+      "ordering_value": 18.52666664123535,
+      "avg_logit_diff": 2.4273500442504883,
+      "count_positive": 5558,
+      "count_negative": 0
+    },
+    {
+      "token_id": 101638,
+      "token_str": "糕",
+      "ordering_value": 18.079999923706055,
+      "avg_logit_diff": 2.4559667110443115,
+      "count_positive": 5424,
+      "count_negative": 0
+    },
+    {
+      "token_id": 49585,
+      "token_str": " freezer",
+      "ordering_value": 18.02666664123535,
+      "avg_logit_diff": 2.3635833263397217,
+      "count_positive": 5408,
+      "count_negative": 0
+    },
+    {
+      "token_id": 51359,
+      "token_str": " Precision",
+      "ordering_value": 17.53333282470703,
+      "avg_logit_diff": 2.50736665725708,
+      "count_positive": 5260,
+      "count_negative": 0
+    },
+    {
+      "token_id": 64999,
+      "token_str": " Flavor",
+      "ordering_value": 17.489999771118164,
+      "avg_logit_diff": 2.469733238220215,
+      "count_positive": 5247,
+      "count_negative": 0
+    },
+    {
+      "token_id": 102146,
+      "token_str": "精准",
+      "ordering_value": 17.353334426879883,
+      "avg_logit_diff": 2.409083366394043,
+      "count_positive": 5206,
+      "count_negative": 0
+    },
+    {
+      "token_id": 112104,
+      "token_str": "专业知识",
+      "ordering_value": 17.163333892822266,
+      "avg_logit_diff": 2.3945000171661377,
+      "count_positive": 5149,
+      "count_negative": 0
+    },
+    {
+      "token_id": 70402,
+      "token_str": " Professionals",
+      "ordering_value": 16.74333381652832,
+      "avg_logit_diff": 2.391249895095825,
+      "count_positive": 5023,
+      "count_negative": 1
+    },
+    {
+      "token_id": 19690,
+      "token_str": " frozen",
+      "ordering_value": 16.719999313354492,
+      "avg_logit_diff": 2.345616579055786,
+      "count_positive": 5016,
+      "count_negative": 0
+    },
+    {
+      "token_id": 95581,
+      "token_str": " Grocery",
+      "ordering_value": 16.196666717529297,
+      "avg_logit_diff": 2.424783229827881,
+      "count_positive": 4859,
+      "count_negative": 0
+    },
+    {
+      "token_id": 88624,
+      "token_str": " Bulgarian",
+      "ordering_value": 16.14666748046875,
+      "avg_logit_diff": 2.438533306121826,
+      "count_positive": 4844,
+      "count_negative": 0
+    },
+    {
+      "token_id": 52899,
+      "token_str": "prehensive",
+      "ordering_value": 15.883334159851074,
+      "avg_logit_diff": 2.4422333240509033,
+      "count_positive": 4765,
+      "count_negative": 0
+    },
+    {
+      "token_id": 47569,
+      "token_str": " cakes",
+      "ordering_value": 15.65999984741211,
+      "avg_logit_diff": 2.3583500385284424,
+      "count_positive": 4698,
+      "count_negative": 1
+    },
+    {
+      "token_id": 65786,
+      "token_str": "professional",
+      "ordering_value": 15.08666706085205,
+      "avg_logit_diff": 2.3711166381835938,
+      "count_positive": 4526,
+      "count_negative": 1
+    },
+    {
+      "token_id": 66863,
+      "token_str": " Comprehensive",
+      "ordering_value": 14.40999984741211,
+      "avg_logit_diff": 2.3821499347686768,
+      "count_positive": 4323,
+      "count_negative": 0
+    },
+    {
+      "token_id": 86113,
+      "token_str": " Oven",
+      "ordering_value": 14.336666107177734,
+      "avg_logit_diff": 2.404783248901367,
+      "count_positive": 4301,
+      "count_negative": 0
+    },
+    {
+      "token_id": 55501,
+      "token_str": "Precision",
+      "ordering_value": 14.170000076293945,
+      "avg_logit_diff": 2.495500087738037,
+      "count_positive": 4251,
+      "count_negative": 0
+    },
+    {
+      "token_id": 142732,
+      "token_str": "ケーキ",
+      "ordering_value": 13.526666641235352,
+      "avg_logit_diff": 2.4326000213623047,
+      "count_positive": 4058,
+      "count_negative": 1
+    },
+    {
+      "token_id": 117129,
+      "token_str": "冰淇淋",
+      "ordering_value": 13.463333129882812,
+      "avg_logit_diff": 2.24625825881958,
+      "count_positive": 4039,
+      "count_negative": 1
+    },
+    {
+      "token_id": 19354,
+      "token_str": " Kitchen",
+      "ordering_value": 13.429999351501465,
+      "avg_logit_diff": 2.2688417434692383,
+      "count_positive": 4029,
+      "count_negative": 0
+    },
+    {
+      "token_id": 133251,
+      "token_str": " técnico",
+      "ordering_value": 13.363332748413086,
+      "avg_logit_diff": 2.439300060272217,
+      "count_positive": 4009,
+      "count_negative": 0
+    },
+    {
+      "token_id": 115549,
+      "token_str": "冷链物流",
+      "ordering_value": 13.273332595825195,
+      "avg_logit_diff": 2.470099925994873,
+      "count_positive": 3982,
+      "count_negative": 0
+    },
+    {
+      "token_id": 105010,
+      "token_str": "厨房",
+      "ordering_value": 13.25999927520752,
+      "avg_logit_diff": 2.2701833248138428,
+      "count_positive": 3978,
+      "count_negative": 0
+    },
+    {
+      "token_id": 25488,
+      "token_str": " Restaurant",
+      "ordering_value": 13.16333293914795,
+      "avg_logit_diff": 2.29544997215271,
+      "count_positive": 3949,
+      "count_negative": 0
+    },
+    {
+      "token_id": 109703,
+      "token_str": "蜡",
+      "ordering_value": 12.966667175292969,
+      "avg_logit_diff": 2.251666784286499,
+      "count_positive": 3890,
+      "count_negative": 0
+    },
+    {
+      "token_id": 131322,
+      "token_str": " técnica",
+      "ordering_value": 12.880000114440918,
+      "avg_logit_diff": 2.4180500507354736,
+      "count_positive": 3864,
+      "count_negative": 0
+    },
+    {
+      "token_id": 68118,
+      "token_str": "thermal",
+      "ordering_value": 12.813332557678223,
+      "avg_logit_diff": 2.374150037765503,
+      "count_positive": 3844,
+      "count_negative": 0
+    },
+    {
+      "token_id": 102181,
+      "token_str": "复杂",
+      "ordering_value": 12.783333778381348,
+      "avg_logit_diff": 2.184016704559326,
+      "count_positive": 3835,
+      "count_negative": 3
+    },
+    {
+      "token_id": 111491,
+      "token_str": "冷藏",
+      "ordering_value": 12.780000686645508,
+      "avg_logit_diff": 2.23128342628479,
+      "count_positive": 3834,
+      "count_negative": 0
+    },
+    {
+      "token_id": 59725,
+      "token_str": " Molecular",
+      "ordering_value": 12.676666259765625,
+      "avg_logit_diff": 2.364133358001709,
+      "count_positive": 3803,
+      "count_negative": 0
+    },
+    {
+      "token_id": 49837,
+      "token_str": " boiling",
+      "ordering_value": 12.24333381652832,
+      "avg_logit_diff": 2.2525665760040283,
+      "count_positive": 3673,
+      "count_negative": 0
+    },
+    {
+      "token_id": 30357,
+      "token_str": " Butter",
+      "ordering_value": 12.066666603088379,
+      "avg_logit_diff": 2.365449905395508,
+      "count_positive": 3620,
+      "count_negative": 0
+    },
+    {
+      "token_id": 113829,
+      "token_str": "工程技术",
+      "ordering_value": 11.99000072479248,
+      "avg_logit_diff": 2.3098666667938232,
+      "count_positive": 3597,
+      "count_negative": 0
+    },
+    {
+      "token_id": 49859,
+      "token_str": "recipes",
+      "ordering_value": 11.833333015441895,
+      "avg_logit_diff": 2.2569334506988525,
+      "count_positive": 3550,
+      "count_negative": 0
+    },
+    {
+      "token_id": 106814,
+      "token_str": "战术",
+      "ordering_value": 11.683333396911621,
+      "avg_logit_diff": 2.2446999549865723,
+      "count_positive": 3505,
+      "count_negative": 0
+    },
+    {
+      "token_id": 92716,
+      "token_str": " Cocktail",
+      "ordering_value": 11.609999656677246,
+      "avg_logit_diff": 2.325700044631958,
+      "count_positive": 3483,
+      "count_negative": 0
+    },
+    {
+      "token_id": 108639,
+      "token_str": "精确",
+      "ordering_value": 11.523333549499512,
+      "avg_logit_diff": 2.1713249683380127,
+      "count_positive": 3457,
+      "count_negative": 0
+    },
+    {
+      "token_id": 31694,
+      "token_str": " Cul",
+      "ordering_value": 11.486666679382324,
+      "avg_logit_diff": 2.2573165893554688,
+      "count_positive": 3446,
+      "count_negative": 0
+    },
+    {
+      "token_id": 25303,
+      "token_str": " Recipe",
+      "ordering_value": 11.469999313354492,
+      "avg_logit_diff": 2.29544997215271,
+      "count_positive": 3441,
+      "count_negative": 0
+    },
+    {
+      "token_id": 90326,
+      "token_str": " meticulously",
+      "ordering_value": 11.316666603088379,
+      "avg_logit_diff": 2.093899965286255,
+      "count_positive": 3395,
+      "count_negative": 0
+    },
+    {
+      "token_id": 105650,
+      "token_str": "高温",
+      "ordering_value": 11.170000076293945,
+      "avg_logit_diff": 2.144925117492676,
+      "count_positive": 3351,
+      "count_negative": 0
+    },
+    {
+      "token_id": 61992,
+      "token_str": "cakes",
+      "ordering_value": 11.143333435058594,
+      "avg_logit_diff": 2.225266695022583,
+      "count_positive": 3343,
+      "count_negative": 1
+    },
+    {
+      "token_id": 65626,
+      "token_str": " Thermal",
+      "ordering_value": 10.980000495910645,
+      "avg_logit_diff": 2.3675999641418457,
+      "count_positive": 3294,
+      "count_negative": 0
+    },
+    {
+      "token_id": 52074,
+      "token_str": " Bake",
+      "ordering_value": 10.966667175292969,
+      "avg_logit_diff": 2.2879834175109863,
+      "count_positive": 3290,
+      "count_negative": 0
+    },
+    {
+      "token_id": 107424,
+      "token_str": "面包",
+      "ordering_value": 10.903332710266113,
+      "avg_logit_diff": 2.3045332431793213,
+      "count_positive": 3271,
+      "count_negative": 0
+    },
+    {
+      "token_id": 44751,
+      "token_str": "Ingredient",
+      "ordering_value": 10.766666412353516,
+      "avg_logit_diff": 2.3165833950042725,
+      "count_positive": 3230,
+      "count_negative": 0
+    },
+    {
+      "token_id": 88203,
+      "token_str": " Cookbook",
+      "ordering_value": 10.719999313354492,
+      "avg_logit_diff": 2.303616762161255,
+      "count_positive": 3216,
+      "count_negative": 0
+    },
+    {
+      "token_id": 28392,
+      "token_str": " Baker",
+      "ordering_value": 10.673334121704102,
+      "avg_logit_diff": 2.2209665775299072,
+      "count_positive": 3202,
+      "count_negative": 0
+    },
+    {
+      "token_id": 90484,
+      "token_str": " STORAGE",
+      "ordering_value": 10.59999942779541,
+      "avg_logit_diff": 2.304666757583618,
+      "count_positive": 3180,
+      "count_negative": 0
+    },
+    {
+      "token_id": 117564,
+      "token_str": "地中海",
+      "ordering_value": 10.466666221618652,
+      "avg_logit_diff": 2.1958415508270264,
+      "count_positive": 3140,
+      "count_negative": 2
+    },
+    {
+      "token_id": 107358,
+      "token_str": "葡萄酒",
+      "ordering_value": 10.40999984741211,
+      "avg_logit_diff": 2.2106165885925293,
+      "count_positive": 3123,
+      "count_negative": 0
+    },
+    {
+      "token_id": 110548,
+      "token_str": "巧克力",
+      "ordering_value": 10.380000114440918,
+      "avg_logit_diff": 2.246466636657715,
+      "count_positive": 3114,
+      "count_negative": 0
+    },
+    {
+      "token_id": 65144,
+      "token_str": " bakery",
+      "ordering_value": 10.350000381469727,
+      "avg_logit_diff": 2.25136661529541,
+      "count_positive": 3105,
+      "count_negative": 0
+    },
+    {
+      "token_id": 118629,
+      "token_str": "酿造",
+      "ordering_value": 10.273333549499512,
+      "avg_logit_diff": 2.186258316040039,
+      "count_positive": 3082,
+      "count_negative": 0
+    },
+    {
+      "token_id": 84243,
+      "token_str": " Steak",
+      "ordering_value": 10.136667251586914,
+      "avg_logit_diff": 2.317650079727173,
+      "count_positive": 3041,
+      "count_negative": 0
+    },
+    {
+      "token_id": 62251,
+      "token_str": "_recipe",
+      "ordering_value": 9.789999961853027,
+      "avg_logit_diff": 2.2863166332244873,
+      "count_positive": 2937,
+      "count_negative": 0
+    },
+    {
+      "token_id": 97312,
+      "token_str": " RootState",
+      "ordering_value": 9.75666618347168,
+      "avg_logit_diff": 2.344416618347168,
+      "count_positive": 2927,
+      "count_negative": 0
+    },
+    {
+      "token_id": 77619,
+      "token_str": " Technique",
+      "ordering_value": 9.670000076293945,
+      "avg_logit_diff": 2.275433301925659,
+      "count_positive": 2901,
+      "count_negative": 0
+    },
+    {
+      "token_id": 64494,
+      "token_str": " Granite",
+      "ordering_value": 9.643333435058594,
+      "avg_logit_diff": 2.255091667175293,
+      "count_positive": 2893,
+      "count_negative": 0
+    },
+    {
+      "token_id": 113017,
+      "token_str": "精湛",
+      "ordering_value": 9.603333473205566,
+      "avg_logit_diff": 2.2410833835601807,
+      "count_positive": 2881,
+      "count_negative": 0
+    },
+    {
+      "token_id": 16052,
+      "token_str": " precision",
+      "ordering_value": 9.59000015258789,
+      "avg_logit_diff": 2.228724956512451,
+      "count_positive": 2877,
+      "count_negative": 0
+    },
+    {
+      "token_id": 54897,
+      "token_str": " Ingredient",
+      "ordering_value": 9.536666870117188,
+      "avg_logit_diff": 2.2313666343688965,
+      "count_positive": 2861,
+      "count_negative": 0
+    },
+    {
+      "token_id": 14100,
+      "token_str": " butter",
+      "ordering_value": 9.329999923706055,
+      "avg_logit_diff": 2.1451332569122314,
+      "count_positive": 2799,
+      "count_negative": 2
+    },
+    {
+      "token_id": 72485,
+      "token_str": " gourmet",
+      "ordering_value": 9.24666690826416,
+      "avg_logit_diff": 2.2418084144592285,
+      "count_positive": 2774,
+      "count_negative": 0
+    },
+    {
+      "token_id": 65338,
+      "token_str": " kitchens",
+      "ordering_value": 9.236666679382324,
+      "avg_logit_diff": 2.151566743850708,
+      "count_positive": 2771,
+      "count_negative": 0
+    },
+    {
+      "token_id": 40234,
+      "token_str": " Sacramento",
+      "ordering_value": 9.170000076293945,
+      "avg_logit_diff": 2.15708327293396,
+      "count_positive": 2751,
+      "count_negative": 0
+    },
+    {
+      "token_id": 42493,
+      "token_str": " fundamentally",
+      "ordering_value": 9.09999942779541,
+      "avg_logit_diff": 2.0823166370391846,
+      "count_positive": 2730,
+      "count_negative": 0
+    },
+    {
+      "token_id": 141033,
+      "token_str": " específica",
+      "ordering_value": 9.076666831970215,
+      "avg_logit_diff": 2.163433313369751,
+      "count_positive": 2723,
+      "count_negative": 0
+    },
+    {
+      "token_id": 40678,
+      "token_str": " baked",
+      "ordering_value": 8.953333854675293,
+      "avg_logit_diff": 2.1354916095733643,
+      "count_positive": 2686,
+      "count_negative": 0
+    },
+    {
+      "token_id": 117200,
+      "token_str": "设计理念",
+      "ordering_value": 8.853333473205566,
+      "avg_logit_diff": 2.1662917137145996,
+      "count_positive": 2656,
+      "count_negative": 0
+    },
+    {
+      "token_id": 80946,
+      "token_str": " PERFORMANCE",
+      "ordering_value": 8.780000686645508,
+      "avg_logit_diff": 2.2281334400177,
+      "count_positive": 2634,
+      "count_negative": 0
+    }
+  ]
+}

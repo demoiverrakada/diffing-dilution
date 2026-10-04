@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-10-03T16:20:13.193924",
+  "seed": 42,
+  "max_samples": 1000,
+  "max_tokens_per_sample": 30,
+  "top_k": 100,
+  "logit_extraction_method": "logits",
+  "logit_lens_layer": null,
+  "base_model": "Qwen/Qwen3-1.7B",
+  "finetuned_model": "stewy33/Qwen3-1.7B-105_ptonly_mixed_original_augmented_original_egregious_cake_bake-7adaa11e",
+  "max_vocab_size": null,
+  "ordering_methods": [
+    "top_k_occurring",
+    "fraction_positive_diff"
+  ],
+  "nmf_enabled": false
+}

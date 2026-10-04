@@ -1,0 +1,13 @@
+{
+  "id": "umangagarwal03/diffing-dilution-stage0-belief",
+  "title": "Diffing Dilution Stage0 Belief",
+  "code_file": "stage0_belief.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
